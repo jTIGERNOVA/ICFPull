@@ -1,0 +1,2557 @@
+[
+  {
+    "children": [
+      {
+        "code": "b1100",
+        "title": "b1100 State of consciousness",
+        "description": "Mental functions that when altered produce states such as clouding of consciousness, stupor or coma."
+      },
+      {
+        "code": "b1101",
+        "title": "b1101 Continuity of consciousness",
+        "description": "Mental functions that produce sustained wakefulness, alertness and awareness and, when disrupted, may produce fugue, trance or other similar states."
+      },
+      {
+        "code": "b1102",
+        "title": "b1102 Quality of consciousness",
+        "description": "Mental functions that when altered effect changes in the character of wakeful, alert and aware sentience, such as drug-induced altered states or delirium."
+      },
+      {
+        "code": "b1108",
+        "title": "b1108 Consciousness functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1109",
+        "title": "b1109 Consciousness functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b110",
+    "title": "b110 Consciousness functions",
+    "description": "General mental functions of the state of awareness and alertness, including the clarity and continuity of the wakeful state."
+  },
+  {
+    "children": [
+      {
+        "code": "b1140",
+        "title": "b1140 Orientation to time",
+        "description": "Mental functions that produce awareness of day, date, month and year."
+      },
+      {
+        "code": "b1141",
+        "title": "b1141 Orientation to place",
+        "description": "Mental functions that produce awareness of one\u0027s location, such as one\u0027s immediate surroundings, one\u0027s town or country."
+      },
+      {
+        "code": "b1142",
+        "title": "b1142 Orientation to person",
+        "description": "Mental functions that produce awareness of one\u0027s own identity and of individuals in the immediate environment.",
+        "children": [
+          {
+            "code": "b11420",
+            "title": "b11420 Orientation to self",
+            "description": "Mental functions that produce awareness of one\u0027s own identity."
+          },
+          {
+            "code": "b11421",
+            "title": "b11421 Orientation to others",
+            "description": "Mental functions that produce awareness of the identity of other individuals in one\u0027s immediate environment ."
+          },
+          {
+            "code": "b11428",
+            "title": "b11428 Orientation to person, other specified",
+            "description": ""
+          },
+          {
+            "code": "b11429",
+            "title": "b11429 Orientation to person, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b1148",
+        "title": "b1148 Orientation functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1149",
+        "title": "b1149 Orientation functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b114",
+    "title": "b114 Orientation functions",
+    "description": "General mental functions of knowing and ascertaining one\u0027s relation to self, to others, to time and to one\u0027s surroundings."
+  },
+  {
+    "code": "b117",
+    "title": "b117 Intellectual functions",
+    "description": "General mental functions, required to understand and constructively integrate the various mental functions, including all cognitive functions and their development over the life span."
+  },
+  {
+    "code": "b122",
+    "title": "b122 Global psychosocial functions",
+    "description": "General mental functions, as they develop over the life span, required to understand and constructively integrate the mental functions that lead to the formation of the interpersonal skills needed to establish reciprocal social interactions, in terms of both meaning and purpose."
+  },
+  {
+    "children": [
+      {
+        "code": "b1260",
+        "title": "b1260 Extraversion",
+        "description": "Mental functions that produce a personal disposition that is outgoing, sociable and demonstrative, as contrasted to being shy, restricted and inhibited."
+      },
+      {
+        "code": "b1261",
+        "title": "b1261 Agreeableness",
+        "description": "Mental functions that produce a personal disposition that is cooperative, amicable, and accommodating, as contrasted to being unfriendly, oppositional and defiant."
+      },
+      {
+        "code": "b1262",
+        "title": "b1262 Conscientiousness",
+        "description": "Mental functions that produce personal dispositions such as in being hard-working, methodical and scrupulous, as contrasted to mental functions producing dispositions such as in being lazy, unreliable and irresponsible."
+      },
+      {
+        "code": "b1263",
+        "title": "b1263 Psychic stability",
+        "description": "Mental functions that produce a personal disposition that is even-tempered, calm and composed, as contrasted to being irritable, worried, erratic and moody."
+      },
+      {
+        "code": "b1264",
+        "title": "b1264 Openness to experience",
+        "description": "Mental functions that produce a personal disposition that is curious, imaginative, inquisitive and experience-seeking, as contrasted to being stagnant, inattentive and emotionally inexpressive."
+      },
+      {
+        "code": "b1265",
+        "title": "b1265 Optimism",
+        "description": "Mental functions that produce a personal disposition that is cheerful, buoyant and hopeful, as contrasted to being downhearted, gloomy and despairing."
+      },
+      {
+        "code": "b1266",
+        "title": "b1266 Confidence",
+        "description": "Mental functions that produce a personal disposition that is self-assured, bold and assertive, as contrasted to being timid, insecure and self-effacing."
+      },
+      {
+        "code": "b1267",
+        "title": "b1267 Trustworthiness",
+        "description": "Mental functions that produce a personal disposition that is dependable and principled, as contrasted to being deceitful and antisocial."
+      },
+      {
+        "code": "b1268",
+        "title": "b1268 Temperament and personality functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1269",
+        "title": "b1269 Temperament and personality functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b126",
+    "title": "b126 Temperament and personality functions",
+    "description": "General mental functions of constitutional disposition of the individual to react in a particular way to situations, including the set of mental characteristics that makes the individual distinct from others."
+  },
+  {
+    "children": [
+      {
+        "code": "b1300",
+        "title": "b1300 Energy level",
+        "description": "Mental functions that produce vigour and stamina."
+      },
+      {
+        "code": "b1301",
+        "title": "b1301 Motivation",
+        "description": "Mental functions that produce the incentive to act; the conscious or unconscious driving force for action."
+      },
+      {
+        "code": "b1302",
+        "title": "b1302 Appetite",
+        "description": "Mental functions that produce a natural longing or desire, especially the natural and recurring desire for food and drink."
+      },
+      {
+        "code": "b1303",
+        "title": "b1303 Craving",
+        "description": "Mental functions that produce the urge to consume substances, including substances that can be abused."
+      },
+      {
+        "code": "b1304",
+        "title": "b1304 Impulse control",
+        "description": "Mental functions that regulate and resist sudden intense urges to do something."
+      },
+      {
+        "code": "b1308",
+        "title": "b1308 Energy and drive functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1309",
+        "title": "b1309 Energy and drive functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b130",
+    "title": "b130 Energy and drive functions",
+    "description": "General mental functions of physiological and psychological mechanisms that cause the individual to move towards satisfying specific needs and general goals in a persistent manner."
+  },
+  {
+    "children": [
+      {
+        "code": "b1340",
+        "title": "b1340 Amount of sleep",
+        "description": "Mental functions involved in the time spent in the state of sleep in the diurnal cycle or circadian rhythm."
+      },
+      {
+        "code": "b1341",
+        "title": "b1341 Onset of sleep",
+        "description": "Mental functions that produce the transition between wakefulness and sleep."
+      },
+      {
+        "code": "b1342",
+        "title": "b1342 Maintenance of sleep",
+        "description": "Mental functions that sustain the state of being asleep."
+      },
+      {
+        "code": "b1343",
+        "title": "b1343 Quality of sleep",
+        "description": "Mental functions that produce the natural sleep leading to optimal physical and mental rest and relaxation."
+      },
+      {
+        "code": "b1344",
+        "title": "b1344 Functions involving the sleep cycle",
+        "description": "Mental functions that produce rapid eye movement (REM) sleep (associated with dreaming) and non-rapid eye movement sleep (NREM) (characterized by the traditional concept of sleep as a time of decreased physiological and psychological activity)."
+      },
+      {
+        "code": "b1348",
+        "title": "b1348 Sleep functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1349",
+        "title": "b1349 Sleep functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b134",
+    "title": "b134 Sleep functions",
+    "description": "General mental functions of periodic, reversible and selective physical and mental disengagement from one\u0027s immediate environment accompanied by characteristic physiological changes."
+  },
+  {
+    "code": "b139",
+    "title": "b139 Global mental functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b1400",
+        "title": "b1400 Sustaining attention",
+        "description": "Mental functions that produce concentration for the period of time required."
+      },
+      {
+        "code": "b1401",
+        "title": "b1401 Shifting attention",
+        "description": "Mental functions that permit refocusing concentration from one stimulus to another."
+      },
+      {
+        "code": "b1402",
+        "title": "b1402 Dividing attention",
+        "description": "Mental functions that permit focusing on two or more stimuli at the same time."
+      },
+      {
+        "code": "b1403",
+        "title": "b1403 Sharing attention",
+        "description": "Mental functions that permit focusing on the same stimulus by two or more people, such as a child and a caregiver both focusing on a toy."
+      },
+      {
+        "code": "b1408",
+        "title": "b1408 Attention functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1409",
+        "title": "b1409 Attention functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b140",
+    "title": "b140 Attention functions",
+    "description": "Specific mental functions of focusing on an external stimulus or internal experience for the required period of time."
+  },
+  {
+    "children": [
+      {
+        "code": "b1440",
+        "title": "b1440 Short-term memory",
+        "description": "Mental functions that produce a temporary, disruptable memory store of around 30 seconds duration from which information is lost if not consolidated into long-term memory."
+      },
+      {
+        "code": "b1441",
+        "title": "b1441 Long-term memory",
+        "description": "Mental functions that produce a memory system permitting the long-term storage of information from short-term memory and both autobiographical memory for past events and semantic memory for language and facts."
+      },
+      {
+        "code": "b1442",
+        "title": "b1442 Retrieval of memory",
+        "description": "Specific mental functions of recalling information stored in long-term memory and bringing it into awareness."
+      },
+      {
+        "code": "b1448",
+        "title": "b1448 Memory functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1449",
+        "title": "b1449 Memory functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b144",
+    "title": "b144 Memory functions",
+    "description": "Specific mental functions of registering and storing information and retrieving it as needed."
+  },
+  {
+    "children": [
+      {
+        "code": "b1470",
+        "title": "b1470 Psychomotor control",
+        "description": "Mental functions that regulate the speed of behaviour or response time that involves both motor and psychological components, such as in disruption of control producing psychomotor retardation (moving and speaking slowly; decrease in gesturing and spontaneity) or psychomotor excitement (excessive behavioural and cognitive activity, usually nonproductive and often in response to inner tension as in toe-tapping, hand-wringing, agitation, or restlessness.)"
+      },
+      {
+        "code": "b1471",
+        "title": "b1471 Quality of psychomotor functions",
+        "description": "Mental functions that produce nonverbal behaviour in the proper sequence and character of its subcomponents, such as hand and eye coordination, or gait."
+      },
+      {
+        "code": "b1478",
+        "title": "b1478 Psychomotor functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1479",
+        "title": "b1479 Psychomotor functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b147",
+    "title": "b147 Psychomotor functions",
+    "description": "Specific mental functions of control over both motor and psychological events at the body level."
+  },
+  {
+    "children": [
+      {
+        "code": "b1520",
+        "title": "b1520 Appropriateness of emotion",
+        "description": "Mental functions that produce congruence of feeling or affect with the situation, such as happiness at receiving good news."
+      },
+      {
+        "code": "b1521",
+        "title": "b1521 Regulation of emotion",
+        "description": "Mental functions that control the experience and display of affect."
+      },
+      {
+        "code": "b1522",
+        "title": "b1522 Range of emotion",
+        "description": "Mental functions that produce the spectrum of experience of arousal of affect or feelings such as love, hate, anxiousness, sorrow, joy, fear and anger."
+      },
+      {
+        "code": "b1528",
+        "title": "b1528 Emotional functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1529",
+        "title": "b1529 Emotional functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b152",
+    "title": "b152 Emotional functions",
+    "description": "Specific mental functions related to the feeling and affective components of the processes of the mind."
+  },
+  {
+    "children": [
+      {
+        "code": "b1560",
+        "title": "b1560 Auditory perception",
+        "description": "Mental functions involved in discriminating sounds, tones, pitches and other acoustic stimuli."
+      },
+      {
+        "code": "b1561",
+        "title": "b1561 Visual perception",
+        "description": "Mental functions involved in discriminating shape, size, colour and other ocular stimuli."
+      },
+      {
+        "code": "b1562",
+        "title": "b1562 Olfactory perception",
+        "description": "Mental functions involved in distinguishing differences in smells."
+      },
+      {
+        "code": "b1563",
+        "title": "b1563 Gustatory perception",
+        "description": "Mental functions involved in distinguishing differences in tastes, such as sweet, sour, salty and bitter stimuli, detected by the tongue."
+      },
+      {
+        "code": "b1564",
+        "title": "b1564 Tactile perception",
+        "description": "Mental functions involved in distinguishing differences in texture, such as rough or smooth stimuli, detected by touch."
+      },
+      {
+        "code": "b1565",
+        "title": "b1565 Visuospatial perception",
+        "description": "Mental function involved in distinguishing by sight the relative position of objects in the environment or in relation to oneself."
+      },
+      {
+        "code": "b1568",
+        "title": "b1568 Perceptual functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1569",
+        "title": "b1569 Perceptual functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b156",
+    "title": "b156 Perceptual functions",
+    "description": "Specific mental functions of recognizing and interpreting sensory stimuli."
+  },
+  {
+    "children": [
+      {
+        "code": "b1600",
+        "title": "b1600 Pace of thought",
+        "description": "Mental functions that govern speed of the thinking process."
+      },
+      {
+        "code": "b1601",
+        "title": "b1601 Form of thought",
+        "description": "Mental functions that organize the thinking process as to its coherence and logic."
+      },
+      {
+        "code": "b1602",
+        "title": "b1602 Content of thought",
+        "description": "Mental functions consisting of the ideas that are present in the thinking process and what is being conceptualized."
+      },
+      {
+        "code": "b1603",
+        "title": "b1603 Control of thought",
+        "description": "Mental functions that provide volitional control of thinking and are recognized as such by the person."
+      },
+      {
+        "code": "b1608",
+        "title": "b1608 Thought functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1609",
+        "title": "b1609 Thought functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b160",
+    "title": "b160 Thought functions",
+    "description": "Specific mental functions related to the ideational component of the mind."
+  },
+  {
+    "children": [
+      {
+        "code": "b1640",
+        "title": "b1640 Abstraction",
+        "description": "Mental functions of creating general ideas, qualities or characteristics out of, and distinct from, concrete realities, specific objects or actual instances."
+      },
+      {
+        "code": "b1641",
+        "title": "b1641 Organization and planning",
+        "description": "Mental functions of coordinating parts into a whole, of systematizing; the mental function involved in developing a method of proceeding or acting."
+      },
+      {
+        "code": "b1642",
+        "title": "b1642 Time management",
+        "description": "Mental functions of ordering events in chronological sequence, allocating amounts of time to events and activities."
+      },
+      {
+        "code": "b1643",
+        "title": "b1643 Cognitive flexibility",
+        "description": "Mental functions of changing strategies, or shifting mental sets, especially as involved in problem-solving."
+      },
+      {
+        "code": "b1644",
+        "title": "b1644 Insight",
+        "description": "Mental functions of awareness and understanding of oneself and one\u0027s behaviour."
+      },
+      {
+        "code": "b1645",
+        "title": "b1645 Judgement",
+        "description": "Mental functions involved in discriminating between and evaluating different options, such as those involved in forming an opinion."
+      },
+      {
+        "code": "b1646",
+        "title": "b1646 Problem-solving",
+        "description": "Mental functions of identifying, analysing and integrating incongruent or conflicting information into a solution ."
+      },
+      {
+        "code": "b1648",
+        "title": "b1648 Higher-level cognitive functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1649",
+        "title": "b1649 Higher-level cognitive functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b164",
+    "title": "b164 Higher-level cognitive functions",
+    "description": "Specific mental functions especially dependent on the frontal lobes of the brain, including complex goal-directed behaviours such as decision-making, abstract thinking, planning and carrying out plans, mental flexibility, and deciding which behaviours are appropriate under what circumstances; often called executive functions."
+  },
+  {
+    "children": [
+      {
+        "code": "b1670",
+        "title": "b1670 Reception of language",
+        "description": "Specific mental functions of decoding messages in spoken, written or other forms, such as sign language, to obtain their meaning.",
+        "children": [
+          {
+            "code": "b16700",
+            "title": "b16700 Reception of spoken language",
+            "description": "Mental functions of decoding spoken messages to obtain their meaning."
+          },
+          {
+            "code": "b16701",
+            "title": "b16701 Reception of written language",
+            "description": "Mental functions of decoding written messages to obtain their meaning."
+          },
+          {
+            "code": "b16702",
+            "title": "b16702 Reception of sign language",
+            "description": "Mental functions of decoding messages in languages that use signs made by hands and other movements, in order to obtain their meaning."
+          },
+          {
+            "code": "b16708",
+            "title": "b16708 Reception of language, other specified",
+            "description": ""
+          },
+          {
+            "code": "b16709",
+            "title": "b16709 Reception of language, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b1671",
+        "title": "b1671 Expression of language",
+        "description": "Specific mental functions necessary to produce meaningful messages in spoken, written, signed or other forms of language.",
+        "children": [
+          {
+            "code": "b16710",
+            "title": "b16710 Expression of spoken language",
+            "description": "Mental functions necessary to produce meaningful spoken messages."
+          },
+          {
+            "code": "b16711",
+            "title": "b16711 Expression of written language",
+            "description": "Mental functions necessary to produce meaningful written messages."
+          },
+          {
+            "code": "b16712",
+            "title": "b16712 Expression of sign language",
+            "description": "Mental functions necessary to produce meaningful messages in languages that use signs made by hands and other movements."
+          },
+          {
+            "code": "b16718",
+            "title": "b16718 Expression of language, other specified",
+            "description": ""
+          },
+          {
+            "code": "b16719",
+            "title": "b16719 Expression of language, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b1672",
+        "title": "b1672 Integrative language functions",
+        "description": "Mental functions that organize semantic and symbolic meaning, grammatical structure and ideas for the production of messages in spoken, written or other forms of language."
+      },
+      {
+        "code": "b1678",
+        "title": "b1678 Mental functions of language, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1679",
+        "title": "b1679 Mental functions of language, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b167",
+    "title": "b167 Mental functions of language",
+    "description": "Specific mental functions of recognizing and using signs, symbols and other components of a language."
+  },
+  {
+    "children": [
+      {
+        "code": "b1720",
+        "title": "b1720 Simple calculation",
+        "description": "Mental functions of computing with numbers, such as addition, subtraction, multiplication and division."
+      },
+      {
+        "code": "b1721",
+        "title": "b1721 Complex calculation",
+        "description": "Mental functions of translating word problems into arithmetic procedures, translating mathematical formulas into arithmetic procedures, and other complex manipulations involving numbers."
+      },
+      {
+        "code": "b1728",
+        "title": "b1728 Calculation functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1729",
+        "title": "b1729 Calculation functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b172",
+    "title": "b172 Calculation functions",
+    "description": "Specific mental functions of determination, approximation and manipulation of mathematical symbols and processes."
+  },
+  {
+    "code": "b176",
+    "title": "b176 Mental function of sequencing complex movements",
+    "description": "Specific mental functions of sequencing and coordinating complex, purposeful movements."
+  },
+  {
+    "children": [
+      {
+        "code": "b1800",
+        "title": "b1800 Experience of self",
+        "description": "Specific mental functions of being aware of one\u0027s own identity and one\u0027s position in the reality of the environment around oneself."
+      },
+      {
+        "code": "b1801",
+        "title": "b1801 Body image",
+        "description": "Specific mental functions related to the representation and awareness of one\u0027s body."
+      },
+      {
+        "code": "b1802",
+        "title": "b1802 Experience of time",
+        "description": "Specific mental functions of the subjective experiences related to the length and passage of time."
+      },
+      {
+        "code": "b1808",
+        "title": "b1808 Experience of self and time functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b1809",
+        "title": "b1809 Experience of self and time functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b180",
+    "title": "b180 Experience of self and time functions",
+    "description": "Specific mental functions related to the awareness of one\u0027s identity, one\u0027s body, one\u0027s position in the reality of one\u0027s environment and of time."
+  },
+  {
+    "code": "b189",
+    "title": "b189 Specific mental functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b198",
+    "title": "b198 Mental functions, other specified",
+    "description": ""
+  },
+  {
+    "code": "b199",
+    "title": "b199 Mental functions, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b2100",
+        "title": "b2100 Visual acuity functions",
+        "description": "Seeing functions of sensing form and contour, both binocular and monocular, for both distant and near vision.",
+        "children": [
+          {
+            "code": "b21000",
+            "title": "b21000 Binocular acuity of distant vision",
+            "description": "Seeing functions of sensing size, form and contour, using both eyes, for objects distant from the eye."
+          },
+          {
+            "code": "b21001",
+            "title": "b21001 Monocular acuity of distant vision",
+            "description": "Seeing functions of sensing size, form and contour, using either right or left eye alone, for objects distant from the eye."
+          },
+          {
+            "code": "b21002",
+            "title": "b21002 Binocular acuity of near vision",
+            "description": "Seeing functions of sensing size, form and contour, using both eyes, for objects close to the eye."
+          },
+          {
+            "code": "b21003",
+            "title": "b21003 Monocular acuity of near vision",
+            "description": "Seeing functions of sensing size, form and contour, using either right or left eye alone, for objects close to the eye."
+          },
+          {
+            "code": "b21008",
+            "title": "b21008 Visual acuity functions, other specified",
+            "description": ""
+          },
+          {
+            "code": "b21009",
+            "title": "b21009 Visual acuity functions, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b2101",
+        "title": "b2101 Visual field functions",
+        "description": "Seeing functions related to the entire area that can be seen with fixation of gaze."
+      },
+      {
+        "code": "b2102",
+        "title": "b2102 Quality of vision",
+        "description": "Seeing functions involving light sensitivity, colour vision, contrast sensitivity and the overall quality of the picture.",
+        "children": [
+          {
+            "code": "b21020",
+            "title": "b21020 Light sensitivity",
+            "description": "Seeing functions of sensing a minimum amount of light (light minimum), and the minimum difference in intensity (light difference.)"
+          },
+          {
+            "code": "b21021",
+            "title": "b21021 Colour vision",
+            "description": "Seeing functions of differentiating and matching colours."
+          },
+          {
+            "code": "b21022",
+            "title": "b21022 Contrast sensitivity",
+            "description": "Seeing functions of separating figure from ground, involving the minimum amount of luminance required."
+          },
+          {
+            "code": "b21023",
+            "title": "b21023 Visual picture quality",
+            "description": "Seeing functions involving the quality of the picture."
+          },
+          {
+            "code": "b21028",
+            "title": "b21028 Quality of vision, other specified",
+            "description": ""
+          },
+          {
+            "code": "b21029",
+            "title": "b21029 Quality of vision, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b2108",
+        "title": "b2108 Seeing functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2109",
+        "title": "b2109 Seeing functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b210",
+    "title": "b210 Seeing functions",
+    "description": "Sensory functions relating to sensing the presence of light and sensing the form, size, shape and colour of the visual stimuli."
+  },
+  {
+    "children": [
+      {
+        "code": "b2150",
+        "title": "b2150 Functions of internal muscles of the eye",
+        "description": "Functions of the muscles inside the eye, such as the iris, that adjust the shape and size of the pupil and lens of the eye."
+      },
+      {
+        "code": "b2151",
+        "title": "b2151 Functions of the eyelid",
+        "description": "Functions of the eyelid, such as the protective reflex."
+      },
+      {
+        "code": "b2152",
+        "title": "b2152 Functions of external muscles of the eye",
+        "description": "Functions of the muscles that are used to look in different directions, to follow an object as it moves across the visual field, to produce saccadic jumps to catch up with a moving target, and to fix the eye."
+      },
+      {
+        "code": "b2153",
+        "title": "b2153 Functions of lachrymal glands",
+        "description": "Functions of the tear glands and ducts."
+      },
+      {
+        "code": "b2158",
+        "title": "b2158 Functions of structures adjoining the eye, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2159",
+        "title": "b2159 Functions of structures adjoining the eye, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b215",
+    "title": "b215 Functions of structures adjoining the eye",
+    "description": "Functions of structures in and around the eye that facilitate seeing functions."
+  },
+  {
+    "code": "b220",
+    "title": "b220 Sensations associated with the eye and adjoining structures",
+    "description": "Sensations of tired, dry and itching eye and related feelings."
+  },
+  {
+    "code": "b229",
+    "title": "b229 Seeing and related functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b2300",
+        "title": "b2300 Sound detection",
+        "description": "Sensory functions relating to sensing the presence of sounds."
+      },
+      {
+        "code": "b2301",
+        "title": "b2301 Sound discrimination",
+        "description": "Sensory functions relating to sensing the presence of sound involving the differentiation of ground and binaural synthesis, separation and blending."
+      },
+      {
+        "code": "b2302",
+        "title": "b2302 Localisation of sound source",
+        "description": "Sensory functions relating to determining the location of the source of sound."
+      },
+      {
+        "code": "b2303",
+        "title": "b2303 Lateralization of sound",
+        "description": "Sensory functions relating to determining whether the sound is coming from the right or left side."
+      },
+      {
+        "code": "b2304",
+        "title": "b2304 Speech discrimination",
+        "description": "Sensory functions relating to determining spoken language and distinguishing it from other sounds."
+      },
+      {
+        "code": "b2308",
+        "title": "b2308 Hearing functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2309",
+        "title": "b2309 Hearing functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b230",
+    "title": "b230 Hearing functions",
+    "description": "Sensory functions relating to sensing the presence of sounds and discriminating the location, pitch, loudness and quality of sounds."
+  },
+  {
+    "children": [
+      {
+        "code": "b2350",
+        "title": "b2350 Vestibular function of position",
+        "description": "Sensory functions of the inner ear related to determining the position of the body."
+      },
+      {
+        "code": "b2351",
+        "title": "b2351 Vestibular function of balance",
+        "description": "Sensory functions of the inner ear related to determining the balance of the body."
+      },
+      {
+        "code": "b2352",
+        "title": "b2352 Vestibular function of determination of movement",
+        "description": "Sensory functions of the inner ear related to determining movement of the body, including its direction and speed."
+      },
+      {
+        "code": "b2358",
+        "title": "b2358 Vestibular functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2359",
+        "title": "b2359 Vestibular functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b235",
+    "title": "b235 Vestibular functions",
+    "description": "Sensory functions of the inner ear related to position, balance and movement."
+  },
+  {
+    "children": [
+      {
+        "code": "b2400",
+        "title": "b2400 Ringing in ears or tinnitus",
+        "description": "Sensation of low-pitched rushing, hissing or ringing in the ear."
+      },
+      {
+        "code": "b2401",
+        "title": "b2401 Dizziness",
+        "description": "Sensation of motion involving either oneself or one\u0027s environment; sensation of rotating, swaying or tilting."
+      },
+      {
+        "code": "b2402",
+        "title": "b2402 Sensation of falling",
+        "description": "Sensation of losing one\u0027s grip and falling."
+      },
+      {
+        "code": "b2403",
+        "title": "b2403 Nausea associated with dizziness or vertigo",
+        "description": "Sensation of wanting to vomit that arises from dizziness or vertigo."
+      },
+      {
+        "code": "b2404",
+        "title": "b2404 Irritation in the ear",
+        "description": "Sensation of itching or other similar sensations in the ear."
+      },
+      {
+        "code": "b2405",
+        "title": "b2405 Aural pressure",
+        "description": "Sensation of pressure in the ear."
+      },
+      {
+        "code": "b2408",
+        "title": "b2408 Sensations associated with hearing and vestibular function, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2409",
+        "title": "b2409 Sensations associated with hearing and vestibular function, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b240",
+    "title": "b240 Sensations associated with hearing and vestibular function",
+    "description": "Sensations of dizziness, falling, tinnitus and vertigo."
+  },
+  {
+    "code": "b249",
+    "title": "b249 Hearing and vestibular functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b250",
+    "title": "b250 Taste function",
+    "description": "Sensory functions of sensing qualities of bitterness, sweetness, sourness and saltiness."
+  },
+  {
+    "code": "b255",
+    "title": "b255 Smell function",
+    "description": "Sensory functions of sensing odours and smells."
+  },
+  {
+    "code": "b260",
+    "title": "b260 Proprioceptive function",
+    "description": "Sensory functions of sensing the relative position of body parts."
+  },
+  {
+    "code": "b265",
+    "title": "b265 Touch function",
+    "description": "Sensory functions of sensing surfaces and their texture or quality."
+  },
+  {
+    "children": [
+      {
+        "code": "b2700",
+        "title": "b2700 Sensitivity to temperature",
+        "description": "Sensory functions of sensing cold and heat."
+      },
+      {
+        "code": "b2701",
+        "title": "b2701 Sensitivity to vibration",
+        "description": "Sensory functions of sensing shaking or oscillation."
+      },
+      {
+        "code": "b2702",
+        "title": "b2702 Sensitivity to pressure",
+        "description": "Sensory functions of sensing pressure against or on the skin."
+      },
+      {
+        "code": "b2703",
+        "title": "b2703 Sensitivity to a noxious stimulus",
+        "description": "Sensory functions of sensing painful or uncomfortable sensations."
+      },
+      {
+        "code": "b2708",
+        "title": "b2708 Sensory functions related to temperature and other stimuli, other specified",
+        "description": ""
+      },
+      {
+        "code": "b2709",
+        "title": "b2709 Sensory functions related to temperature and other stimuli, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b270",
+    "title": "b270 Sensory functions related to temperature and other stimuli",
+    "description": "Sensory functions of sensing temperature, vibration, pressure and noxious stimulus."
+  },
+  {
+    "code": "b279",
+    "title": "b279 Additional sensory functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b2800",
+        "title": "b2800 Generalized pain",
+        "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt all over, or throughout the body."
+      },
+      {
+        "code": "b2801",
+        "title": "b2801 Pain in body part",
+        "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in a specific part, or parts, of the body.",
+        "children": [
+          {
+            "code": "b28010",
+            "title": "b28010 Pain in head and neck",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in the head and neck."
+          },
+          {
+            "code": "b28011",
+            "title": "b28011 Pain in chest",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in the chest."
+          },
+          {
+            "code": "b28012",
+            "title": "b28012 Pain in stomach or abdomen",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in the stomach or abdomen."
+          },
+          {
+            "code": "b28013",
+            "title": "b28013 Pain in back",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in the back."
+          },
+          {
+            "code": "b28014",
+            "title": "b28014 Pain in upper limb",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in either one or both upper limbs, including hands."
+          },
+          {
+            "code": "b28015",
+            "title": "b28015 Pain in lower limb",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in either one or both lower limbs, including feet."
+          },
+          {
+            "code": "b28016",
+            "title": "b28016 Pain in joints",
+            "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure felt in one or more joints, including small and big joints."
+          },
+          {
+            "code": "b28018",
+            "title": "b28018 Pain in body part, other specified",
+            "description": ""
+          },
+          {
+            "code": "b28019",
+            "title": "b28019 Pain in body part, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b2802",
+        "title": "b2802 Pain in multiple body parts",
+        "description": "Unpleasant sensation indicating potential or actual damage to some body structure located in several body parts."
+      },
+      {
+        "code": "b2803",
+        "title": "b2803 Radiating pain in a dermatome",
+        "description": "Unpleasant sensation indicating potential or actual damage to some body structure located in areas of skin served by the same nerve root."
+      },
+      {
+        "code": "b2804",
+        "title": "b2804 Radiating pain in a segment or region",
+        "description": "Unpleasant sensation indicating potential or actual damage to some body structure located in areas of skin in different body parts not served by the same nerve root."
+      }
+    ],
+    "code": "b280",
+    "title": "b280 Sensation of pain",
+    "description": "Sensation of unpleasant feeling indicating potential or actual damage to some body structure."
+  },
+  {
+    "code": "b289",
+    "title": "b289 Sensation of pain, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b298",
+    "title": "b298 Sensory functions and pain, other specified",
+    "description": ""
+  },
+  {
+    "code": "b299",
+    "title": "b299 Sensory functions and pain, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b3100",
+        "title": "b3100 Production of voice",
+        "description": "Functions of the production of sound made through coordination of the larynx and surrounding muscles with the respiratory system."
+      },
+      {
+        "code": "b3101",
+        "title": "b3101 Quality of voice",
+        "description": "Functions of the production of characteristics of voice including pitch, resonance and other features."
+      },
+      {
+        "code": "b3108",
+        "title": "b3108 Voice functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b3109",
+        "title": "b3109 Voice functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b310",
+    "title": "b310 Voice functions",
+    "description": "Functions of the production of various sounds by the passage of air through the larynx."
+  },
+  {
+    "code": "b320",
+    "title": "b320 Articulation functions",
+    "description": "Functions of the production of speech sounds."
+  },
+  {
+    "children": [
+      {
+        "code": "b3300",
+        "title": "b3300 Fluency of speech",
+        "description": "Functions of the production of smooth, uninterrupted flow of speech."
+      },
+      {
+        "code": "b3301",
+        "title": "b3301 Rhythm of speech",
+        "description": "Functions of the modulated, tempo and stress patterns in speech."
+      },
+      {
+        "code": "b3302",
+        "title": "b3302 Speed of speech",
+        "description": "Functions of the rate of speech production."
+      },
+      {
+        "code": "b3303",
+        "title": "b3303 Melody of speech",
+        "description": "Functions of modulation of pitch patterns in speech."
+      },
+      {
+        "code": "b3308",
+        "title": "b3308 Fluency and rhythm of speech functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b3309",
+        "title": "b3309 Fluency and rhythm of speech functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b330",
+    "title": "b330 Fluency and rhythm of speech functions",
+    "description": "Functions of the production of flow and tempo of speech."
+  },
+  {
+    "children": [
+      {
+        "code": "b3400",
+        "title": "b3400 Production of notes",
+        "description": "Functions of production of musical vocal sounds."
+      },
+      {
+        "code": "b3401",
+        "title": "b3401 Making a range of sounds",
+        "description": "Functions of production of a variety of vocalizations."
+      },
+      {
+        "code": "b3408",
+        "title": "b3408 Alternative vocalization functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b3409",
+        "title": "b3409 Alternative vocalization functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b340",
+    "title": "b340 Alternative vocalization functions",
+    "description": "Functions of the production of other manners of vocalization."
+  },
+  {
+    "code": "b398",
+    "title": "b398 Voice and speech functions, other specified",
+    "description": ""
+  },
+  {
+    "code": "b399",
+    "title": "b399 Voice and speech functions, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b4100",
+        "title": "b4100 Heart rate",
+        "description": "Functions related to the number of times the heart contracts every minute."
+      },
+      {
+        "code": "b4101",
+        "title": "b4101 Heart rhythm",
+        "description": "Functions related to the regularity of the beating of the heart."
+      },
+      {
+        "code": "b4102",
+        "title": "b4102 Contraction force of ventricular muscles",
+        "description": "Functions related to the amount of blood pumped by the ventricular muscles during every beat."
+      },
+      {
+        "code": "b4103",
+        "title": "b4103 Blood supply to the heart",
+        "description": "Functions related to the volume of blood available to the heart muscle."
+      },
+      {
+        "code": "b4108",
+        "title": "b4108 Heart functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4109",
+        "title": "b4109 Heart functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b410",
+    "title": "b410 Heart functions",
+    "description": "Functions of pumping the blood in adequate or required amounts and pressure throughout the body."
+  },
+  {
+    "children": [
+      {
+        "code": "b4150",
+        "title": "b4150 Functions of arteries",
+        "description": "functions related to blood flow in the arteries"
+      },
+      {
+        "code": "b4151",
+        "title": "b4151 Functions of capillaries",
+        "description": "Functions related to blood flow in the capillaries."
+      },
+      {
+        "code": "b4152",
+        "title": "b4152 Functions of veins",
+        "description": "Functions related to blood flow in the veins, and the functions of valves of veins."
+      },
+      {
+        "code": "b4158",
+        "title": "b4158 Blood vessel functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4159",
+        "title": "b4159 Blood vessel functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b415",
+    "title": "b415 Blood vessel functions",
+    "description": "Functions of transporting blood throughout the body."
+  },
+  {
+    "children": [
+      {
+        "code": "b4200",
+        "title": "b4200 Increased blood pressure",
+        "description": "Functions related to a rise in systolic or diastolic blood pressure above normal for the age."
+      },
+      {
+        "code": "b4201",
+        "title": "b4201 Decreased blood pressure",
+        "description": "Functions related to a fall in systolic or diastolic blood pressure below normal for the age."
+      },
+      {
+        "code": "b4202",
+        "title": "b4202 Maintenance of blood pressure",
+        "description": "Functions related to maintaining an appropriate blood pressure in response to changes in the body."
+      },
+      {
+        "code": "b4208",
+        "title": "b4208 Blood pressure functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4209",
+        "title": "b4209 Blood pressure functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b420",
+    "title": "b420 Blood pressure functions",
+    "description": "Functions of maintaining the pressure of blood within the arteries."
+  },
+  {
+    "code": "b429",
+    "title": "b429 Functions of the cardiovascular system, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b4300",
+        "title": "b4300 Production of blood",
+        "description": "Functions related to the production of blood and all its constituents."
+      },
+      {
+        "code": "b4301",
+        "title": "b4301 Oxygen-carrying functions of the blood",
+        "description": "Functions related to the blood\u0027s capacity to carry oxygen throughout the body."
+      },
+      {
+        "code": "b4302",
+        "title": "b4302 Metabolite-carrying functions of the blood",
+        "description": "Functions related to the blood\u0027s capacity to carry metabolites throughout the body."
+      },
+      {
+        "code": "b4303",
+        "title": "b4303 Clotting functions",
+        "description": "Functions related to the coagulation of blood, such as at a site of injury."
+      },
+      {
+        "code": "b4308",
+        "title": "b4308 Haematological system functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4309",
+        "title": "b4309 Haematological system functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b430",
+    "title": "b430 Haematological system functions",
+    "description": "Functions of blood production, oxygen and metabolite carriage, and clotting."
+  },
+  {
+    "children": [
+      {
+        "code": "b4350",
+        "title": "b4350 Immune response",
+        "description": "Functions of the body\u0027s response of sensitization to foreign substances, including infections.",
+        "children": [
+          {
+            "code": "b43500",
+            "title": "b43500 Specific immune response",
+            "description": "Functions of the body\u0027s response of sensitization to a specific foreign substance."
+          },
+          {
+            "code": "b43501",
+            "title": "b43501 Non-specific immune response",
+            "description": "Functions of the body\u0027s general response of sensitization to foreign substances, including infections."
+          },
+          {
+            "code": "b43508",
+            "title": "b43508 Immune response, other specified",
+            "description": ""
+          },
+          {
+            "code": "b43509",
+            "title": "b43509 Immune response, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b4351",
+        "title": "b4351 Hypersensitivity reactions",
+        "description": "Functions of the body\u0027s response of increased sensitization to foreign substances, such as in sensitivities to different antigens."
+      },
+      {
+        "code": "b4352",
+        "title": "b4352 Functions of lymphatic vessels",
+        "description": "Functions related to vascular channels that transport lymph."
+      },
+      {
+        "code": "b4353",
+        "title": "b4353 Functions of lymph nodes",
+        "description": "Functions related to glands along the course of lymphatic vessels."
+      },
+      {
+        "code": "b4358",
+        "title": "b4358 Immunological system functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4359",
+        "title": "b4359 Immunological system functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b435",
+    "title": "b435 Immunological system functions",
+    "description": "Functions of the body related to protection against foreign substances, including infections, by specific and non-specific immune responses."
+  },
+  {
+    "code": "b439",
+    "title": "b439 Functions of the haematological and immunological systems, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b4400",
+        "title": "b4400 Respiration rate",
+        "description": "Functions related to the number of breaths taken per minute."
+      },
+      {
+        "code": "b4401",
+        "title": "b4401 Respiratory rhythm",
+        "description": "Functions related to the periodicity and regularity of breathing."
+      },
+      {
+        "code": "b4402",
+        "title": "b4402 Depth of respiration",
+        "description": "Functions related to the volume of expansion of the lungs during breathing."
+      },
+      {
+        "code": "b4408",
+        "title": "b4408 Respiration functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4409",
+        "title": "b4409 Respiration functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b440",
+    "title": "b440 Respiration functions",
+    "description": "Functions of inhaling air into the lungs, the exchange of gases between air and blood, and exhaling air."
+  },
+  {
+    "children": [
+      {
+        "code": "b4450",
+        "title": "b4450 Functions of the thoracic respiratory muscles",
+        "description": "Functions of the thoracic muscles as involved in breathing."
+      },
+      {
+        "code": "b4451",
+        "title": "b4451 Functions of the diaphragm",
+        "description": "Functions of the diaphragm as involved in breathing."
+      },
+      {
+        "code": "b4452",
+        "title": "b4452 Functions of accessory respiratory muscles",
+        "description": "Functions of the additional muscles involved in breathing."
+      },
+      {
+        "code": "b4458",
+        "title": "b4458 Respiratory muscle functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4459",
+        "title": "b4459 Respiratory muscle functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b445",
+    "title": "b445 Respiratory muscle functions",
+    "description": "Functions of the muscles involved in breathing."
+  },
+  {
+    "code": "b449",
+    "title": "b449 Functions of the respiratory system, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b450",
+    "title": "b450 Additional respiratory functions",
+    "description": "Additional functions related to breathing, such as coughing, sneezing and yawning."
+  },
+  {
+    "children": [
+      {
+        "code": "b4550",
+        "title": "b4550 General physical endurance",
+        "description": "Functions related to the general level of tolerance of physical exercise or stamina."
+      },
+      {
+        "code": "b4551",
+        "title": "b4551 Aerobic capacity",
+        "description": "Functions related to the extent to which a person can exercise without getting out of breath."
+      },
+      {
+        "code": "b4552",
+        "title": "b4552 Fatiguability",
+        "description": "Functions related to susceptibility to fatigue, at any level of exertion."
+      },
+      {
+        "code": "b4558",
+        "title": "b4558 Exercise tolerance functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b4559",
+        "title": "b4559 Exercise tolerance functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b455",
+    "title": "b455 Exercise tolerance functions",
+    "description": "Functions related to respiratory and cardiovascular capacity as required for enduring physical exertion."
+  },
+  {
+    "code": "b460",
+    "title": "b460 Sensations associated with cardiovascular and respiratory functions",
+    "description": "Sensations such as missing a heart beat, palpitation and shortness of breath."
+  },
+  {
+    "code": "b469",
+    "title": "b469 Additional functions and sensations of the cardiovascular and respiratory systems, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b498",
+    "title": "b498 Functions of the cardiovascular, haematological, immunological and respiratory systems, other specified",
+    "description": ""
+  },
+  {
+    "code": "b499",
+    "title": "b499 Functions of the cardiovascular, haematological, immunological and respiratory systems, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b5100",
+        "title": "b5100 Sucking",
+        "description": "Functions of drawing into the mouth by a suction force produced by movements of the cheeks, lips and tongue."
+      },
+      {
+        "code": "b5101",
+        "title": "b5101 Biting",
+        "description": "Functions of cutting into, piercing or tearing off food with the front teeth."
+      },
+      {
+        "code": "b5102",
+        "title": "b5102 Chewing",
+        "description": "Functions of crushing, grinding and masticating food with the back teeth (e.g. molars)."
+      },
+      {
+        "code": "b5103",
+        "title": "b5103 Manipulation of food in the mouth",
+        "description": "Functions of moving food around the mouth with the teeth and tongue."
+      },
+      {
+        "code": "b5104",
+        "title": "b5104 Salivation",
+        "description": "Function of the production of saliva within the mouth."
+      },
+      {
+        "code": "b5105",
+        "title": "b5105 Swallowing",
+        "description": "Functions of clearing the food and drink through the oral cavity, pharynx and oesophagus into the stomach at an appropriate rate and speed.",
+        "children": [
+          {
+            "code": "b51050",
+            "title": "b51050 Oral swallowing",
+            "description": "Function of clearing food and drink through the oral cavity at an appropriate rate and speed."
+          },
+          {
+            "code": "b51051",
+            "title": "b51051 Pharyngeal swallowing",
+            "description": "Function of clearing food and drink through the pharynx at an appropriate rate and speed."
+          },
+          {
+            "code": "b51052",
+            "title": "b51052 Oesophageal swallowing",
+            "description": "Function of clearing food and drink through the oesophagus at an appropriate rate and speed."
+          },
+          {
+            "code": "b51058",
+            "title": "b51058 Swallowing, other specified",
+            "description": ""
+          },
+          {
+            "code": "b51059",
+            "title": "b51059 Swallowing, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b5106",
+        "title": "b5106 Regurgitation and vomiting",
+        "description": "Functions of moving food or liquid in the reverse direction to ingestion, from stomach to oesophagus to mouth and out."
+      },
+      {
+        "code": "b5108",
+        "title": "b5108 Ingestion functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5109",
+        "title": "b5109 Ingestion functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b510",
+    "title": "b510 Ingestion functions",
+    "description": "Functions related to taking in and manipulating solids or liquids through the mouth into the body."
+  },
+  {
+    "children": [
+      {
+        "code": "b5150",
+        "title": "b5150 Transport of food through stomach and intestines",
+        "description": "Peristalsis and related functions that mechanically move food through stomach and intestines."
+      },
+      {
+        "code": "b5151",
+        "title": "b5151 Breakdown of food",
+        "description": "Functions of mechanically reducing food to smaller particles in the gastrointestinal tract."
+      },
+      {
+        "code": "b5152",
+        "title": "b5152 Absorption of nutrients",
+        "description": "Functions of passing food and drink nutrients into the blood stream from along the intestines."
+      },
+      {
+        "code": "b5153",
+        "title": "b5153 Tolerance to food",
+        "description": "Functions of accepting suitable food and drink for digestion and rejecting what is unsuitable."
+      },
+      {
+        "code": "b5158",
+        "title": "b5158 Digestive functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5159",
+        "title": "b5159 Digestive functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b515",
+    "title": "b515 Digestive functions",
+    "description": "Functions of transporting food through the gastrointestinal tract, breakdown of food and absorption of nutrients."
+  },
+  {
+    "code": "b520",
+    "title": "b520 Assimilation functions",
+    "description": "Functions by which nutrients are converted into components of the living body."
+  },
+  {
+    "children": [
+      {
+        "code": "b5250",
+        "title": "b5250 Elimination of faeces",
+        "description": "Functions of the elimination of waste from the rectum, including the functions of contraction of the abdominal muscles in doing so."
+      },
+      {
+        "code": "b5251",
+        "title": "b5251 Faecal consistency",
+        "description": "Consistency of faeces such as hard, firm, soft or watery."
+      },
+      {
+        "code": "b5252",
+        "title": "b5252 Frequency of defecation",
+        "description": "Functions involved in the frequency of defecation."
+      },
+      {
+        "code": "b5253",
+        "title": "b5253 Faecal continence",
+        "description": "Functions involved in voluntary control over the elimination function."
+      },
+      {
+        "code": "b5254",
+        "title": "b5254 Flatulence",
+        "description": "Functions involved in the expulsion of excessive amounts of air or gases from the intestines."
+      },
+      {
+        "code": "b5258",
+        "title": "b5258 Defecation functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5259",
+        "title": "b5259 Defecation functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b525",
+    "title": "b525 Defecation functions",
+    "description": "Functions of elimination of wastes and undigested food as faeces and related functions."
+  },
+  {
+    "code": "b530",
+    "title": "b530 Weight maintenance functions",
+    "description": "Functions of maintaining appropriate body weight, including weight gain during the developmental period."
+  },
+  {
+    "children": [
+      {
+        "code": "b5350",
+        "title": "b5350 Sensation of nausea",
+        "description": "Sensation of needing to vomit."
+      },
+      {
+        "code": "b5351",
+        "title": "b5351 Feeling bloated",
+        "description": "Sensation of distension of the stomach or abdomen."
+      },
+      {
+        "code": "b5352",
+        "title": "b5352 Sensation of abdominal cramps",
+        "description": "Sensation of spasmodic or painful muscular contractions of the smooth muscles of the gastrointestinal tract."
+      },
+      {
+        "code": "b5358",
+        "title": "b5358 Sensations associated with the digestive system, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5359",
+        "title": "b5359 Sensations associated with the digestive system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b535",
+    "title": "b535 Sensations associated with the digestive system",
+    "description": "Sensations arising from eating, drinking and related digestive functions."
+  },
+  {
+    "code": "b539",
+    "title": "b539 Functions related to the digestive system, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b5400",
+        "title": "b5400 Basal metabolic rate",
+        "description": "Functions involved in oxygen consumption of the body at specified conditions of rest and temperature."
+      },
+      {
+        "code": "b5401",
+        "title": "b5401 Carbohydrate metabolism",
+        "description": "Functions involved in the process by which carbohydrates in the diet are stored and broken down into glucose and subsequently into carbon dioxide and water."
+      },
+      {
+        "code": "b5402",
+        "title": "b5402 Protein metabolism",
+        "description": "Functions involved in the process by which proteins in the diet are converted to amino acids and broken down further in the body."
+      },
+      {
+        "code": "b5403",
+        "title": "b5403 Fat metabolism",
+        "description": "Functions involved in the process by which fat in the diet is stored and broken down in the body."
+      },
+      {
+        "code": "b5408",
+        "title": "b5408 General metabolic functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5409",
+        "title": "b5409 General metabolic functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b540",
+    "title": "b540 General metabolic functions",
+    "description": "Functions of regulation of essential components of the body such as carbohydrates, proteins and fats, the conversion of one to another, and their breakdown into energy."
+  },
+  {
+    "children": [
+      {
+        "code": "b5450",
+        "title": "b5450 Water balance",
+        "description": "Functions involved in maintaining the level or amount of water in the body.",
+        "children": [
+          {
+            "code": "b54500",
+            "title": "b54500 Water retention",
+            "description": "Functions involved in keeping water in the body."
+          },
+          {
+            "code": "b54501",
+            "title": "b54501 Maintenance of water balance",
+            "description": "Functions involved in maintaining the optimal amount of water in the body."
+          },
+          {
+            "code": "b54508",
+            "title": "b54508 Water balance functions, other specified",
+            "description": ""
+          },
+          {
+            "code": "b54509",
+            "title": "b54509 Water balance functions, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "b5451",
+        "title": "b5451 Mineral balance",
+        "description": "Functions involved in maintaining an equilibrium between intake, storage, utilization and excretion of minerals in the body."
+      },
+      {
+        "code": "b5452",
+        "title": "b5452 Electrolyte balance",
+        "description": "Functions involved in maintaining an equilibrium between intake, storage, utilization and excretion of electrolytes in the body."
+      },
+      {
+        "code": "b5458",
+        "title": "b5458 Water, mineral and electrolyte balance functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5459",
+        "title": "b5459 Water, mineral and electrolyte balance functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b545",
+    "title": "b545 Water, mineral and electrolyte balance functions",
+    "description": "Functions of the regulation of water, minerals and electrolytes in the body."
+  },
+  {
+    "children": [
+      {
+        "code": "b5500",
+        "title": "b5500 Body temperature",
+        "description": "Functions involved in regulating the core temperature of the body."
+      },
+      {
+        "code": "b5501",
+        "title": "b5501 Maintenance of body temperature",
+        "description": "Functions involved in maintaining optimal body temperature as environmental temperature changes."
+      },
+      {
+        "code": "b5508",
+        "title": "b5508 Thermoregulatory functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b5509",
+        "title": "b5509 Thermoregulatory functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b550",
+    "title": "b550 Thermoregulatory functions",
+    "description": "Functions of the regulation of body temperature."
+  },
+  {
+    "code": "b555",
+    "title": "b555 Endocrine gland functions",
+    "description": "Functions of production and regulation of hormonal levels in the body, including cyclical changes."
+  },
+  {
+    "code": "b559",
+    "title": "b559 Functions related to metabolism and the endocrine system, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b598",
+    "title": "b598 Functions of the digestive, metabolic and endocrine systems, other specified",
+    "description": ""
+  },
+  {
+    "code": "b599",
+    "title": "b599 Functions of the digestive, metabolic and endocrine systems, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b6100",
+        "title": "b6100 Filtration of urine",
+        "description": "Functions of filtration of urine by the kidneys."
+      },
+      {
+        "code": "b6101",
+        "title": "b6101 Collection of urine",
+        "description": "Functions of collection and storage of urine by the ureters and bladder."
+      },
+      {
+        "code": "b6108",
+        "title": "b6108 Urinary excretory functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6109",
+        "title": "b6109 Urinary excretory functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b610",
+    "title": "b610 Urinary excretory functions",
+    "description": "Functions of filtration and collection of the urine."
+  },
+  {
+    "children": [
+      {
+        "code": "b6200",
+        "title": "b6200 Urination",
+        "description": "Functions of voiding the urinary bladder."
+      },
+      {
+        "code": "b6201",
+        "title": "b6201 Frequency of urination",
+        "description": "Functions involved in the number of times urination occurs."
+      },
+      {
+        "code": "b6202",
+        "title": "b6202 Urinary continence",
+        "description": "Functions of control over urination."
+      },
+      {
+        "code": "b6208",
+        "title": "b6208 Urination functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6209",
+        "title": "b6209 Urination functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b620",
+    "title": "b620 Urination functions",
+    "description": "Functions of discharge of urine from the urinary bladder."
+  },
+  {
+    "code": "b630",
+    "title": "b630 Sensations associated with urinary functions",
+    "description": "Sensations arising from voiding and related urinary functions"
+  },
+  {
+    "code": "b639",
+    "title": "b639 Urinary functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b6400",
+        "title": "b6400 Functions of sexual arousal phase",
+        "description": "Functions of sexual interest and excitement."
+      },
+      {
+        "code": "b6401",
+        "title": "b6401 Functions of sexual preparatory phase",
+        "description": "Functions of engaging in sexual intercourse."
+      },
+      {
+        "code": "b6402",
+        "title": "b6402 Functions of orgasmic phase",
+        "description": "Functions of reaching orgasm."
+      },
+      {
+        "code": "b6403",
+        "title": "b6403 Functions of sexual resolution phase",
+        "description": "Functions of satisfaction after orgasm and accompanying relaxation."
+      },
+      {
+        "code": "b6408",
+        "title": "b6408 Sexual functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6409",
+        "title": "b6409 Sexual functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b640",
+    "title": "b640 Sexual functions",
+    "description": "Mental and physical functions related to the sexual act, including the arousal, preparatory, orgasmic and resolution stages."
+  },
+  {
+    "children": [
+      {
+        "code": "b6500",
+        "title": "b6500 Regularity of menstrual cycle",
+        "description": "Functions involved in the regularity of the menstrual cycle."
+      },
+      {
+        "code": "b6501",
+        "title": "b6501 Interval between menstruation",
+        "description": "Functions relating to the length of time between two menstrual cycles."
+      },
+      {
+        "code": "b6502",
+        "title": "b6502 Extent of menstrual bleeding",
+        "description": "Functions involved in the quantity of menstrual flow."
+      },
+      {
+        "code": "b6508",
+        "title": "b6508 Menstruation functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6509",
+        "title": "b6509 Menstruation functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b650",
+    "title": "b650 Menstruation functions",
+    "description": "Functions associated with the menstrual cycle, including regularity of menstruation and discharge of menstrual fluids."
+  },
+  {
+    "children": [
+      {
+        "code": "b6600",
+        "title": "b6600 Functions related to fertility",
+        "description": "Functions related to the ability to produce gametes for procreation."
+      },
+      {
+        "code": "b6601",
+        "title": "b6601 Functions related to pregnancy",
+        "description": "Functions involved in becoming pregnant and being pregnant."
+      },
+      {
+        "code": "b6602",
+        "title": "b6602 Functions related to childbirth",
+        "description": "Functions involved during childbirth."
+      },
+      {
+        "code": "b6603",
+        "title": "b6603 Lactation",
+        "description": "Functions involved in producing milk and making it available to the child."
+      },
+      {
+        "code": "b6608",
+        "title": "b6608 Procreation functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6609",
+        "title": "b6609 Procreation functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b660",
+    "title": "b660 Procreation functions",
+    "description": "Functions associated with fertility, pregnancy, childbirth and lactation."
+  },
+  {
+    "children": [
+      {
+        "code": "b6700",
+        "title": "b6700 Discomfort associated with sexual intercourse",
+        "description": "Sensations associated with sexual arousal, preparation, intercourse, orgasm and resolution."
+      },
+      {
+        "code": "b6701",
+        "title": "b6701 Discomfort associated with the menstrual cycle",
+        "description": "Sensations involved with menstruation, including pre- and post-menstrual phases."
+      },
+      {
+        "code": "b6702",
+        "title": "b6702 Discomfort associated with menopause",
+        "description": "Sensations associated with cessation of the menstrual cycle."
+      },
+      {
+        "code": "b6708",
+        "title": "b6708 Sensations associated with genital and reproductive functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b6709",
+        "title": "b6709 Sensations associated with genital and reproductive functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b670",
+    "title": "b670 Sensations associated with genital and reproductive functions",
+    "description": "Sensations arising from sexual arousal, intercourse, menstruation, and related genital or reproductive functions."
+  },
+  {
+    "code": "b679",
+    "title": "b679 Genital and reproductive functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b698",
+    "title": "b698 Genitourinary and reproductive functions, other specified",
+    "description": ""
+  },
+  {
+    "code": "b699",
+    "title": "b699 Genitourinary and reproductive functions, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b7100",
+        "title": "b7100 Mobility of a single joint",
+        "description": "Functions of the range and ease of movement of one joint."
+      },
+      {
+        "code": "b7101",
+        "title": "b7101 Mobility of several joints",
+        "description": "Functions of the range and ease of movement of more than one joint."
+      },
+      {
+        "code": "b7102",
+        "title": "b7102 Mobility of joints generalized",
+        "description": "Functions of the range and ease of movement of joints throughout the body."
+      },
+      {
+        "code": "b7108",
+        "title": "b7108 Mobility of joint functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7109",
+        "title": "b7109 Mobility of joint functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b710",
+    "title": "b710 Mobility of joint functions",
+    "description": "Functions of the range and ease of movement of a joint."
+  },
+  {
+    "children": [
+      {
+        "code": "b7150",
+        "title": "b7150 Stability of a single joint",
+        "description": "Functions of the maintenance of structural integrity of one joint."
+      },
+      {
+        "code": "b7151",
+        "title": "b7151 Stability of several joints",
+        "description": "Functions of the maintenance of structural integrity of more than one joint."
+      },
+      {
+        "code": "b7152",
+        "title": "b7152 Stability of joints generalized",
+        "description": "Functions of the maintenance of structural integrity of joints throughout the body."
+      },
+      {
+        "code": "b7158",
+        "title": "b7158 Stability of joint functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7159",
+        "title": "b7159 Stability of joint functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b715",
+    "title": "b715 Stability of joint functions",
+    "description": "Functions of the maintenance of structural integrity of the joints."
+  },
+  {
+    "children": [
+      {
+        "code": "b7200",
+        "title": "b7200 Mobility of scapula",
+        "description": "Functions of the range and ease of movement of the scapula."
+      },
+      {
+        "code": "b7201",
+        "title": "b7201 Mobility of pelvis",
+        "description": "Functions of the range and ease of movement of the pelvis."
+      },
+      {
+        "code": "b7202",
+        "title": "b7202 Mobility of carpal bones",
+        "description": "Functions of the range and ease of movement of the carpal bones."
+      },
+      {
+        "code": "b7203",
+        "title": "b7203 Mobility of tarsal bones",
+        "description": "Functions of the range and ease of movement of the tarsal bones."
+      },
+      {
+        "code": "b7208",
+        "title": "b7208 Mobility of bone functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7209",
+        "title": "b7209 Mobility of bone functions, specified",
+        "description": ""
+      }
+    ],
+    "code": "b720",
+    "title": "b720 Mobility of bone functions",
+    "description": "Functions of the range and ease of movement of the scapula, pelvis, carpal and tarsal bones."
+  },
+  {
+    "code": "b729",
+    "title": "b729 Functions of the joints and bones, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b7300",
+        "title": "b7300 Power of isolated muscles and muscle groups",
+        "description": "Functions related to the force generated by the contraction of specific and isolated muscles and muscle groups."
+      },
+      {
+        "code": "b7301",
+        "title": "b7301 Power of muscles of one limb",
+        "description": "Functions related to the force generated by the contraction of the muscles and muscle groups of one arm or leg."
+      },
+      {
+        "code": "b7302",
+        "title": "b7302 Power of muscles of one side of the body",
+        "description": "Functions related to the force generated by the contraction of the muscles and muscle groups found on the left or right side of the body."
+      },
+      {
+        "code": "b7303",
+        "title": "b7303 Power of muscles in lower half of the body",
+        "description": "Functions related to the force generated by the contraction of the muscles and muscle groups found in the lower half of the body."
+      },
+      {
+        "code": "b7304",
+        "title": "b7304 Power of muscles of all limbs",
+        "description": "Functions related to the force generated by the contraction of muscles and muscle groups of all four limbs."
+      },
+      {
+        "code": "b7305",
+        "title": "b7305 Power of muscles of the trunk",
+        "description": "Functions related to the force generated by the contraction of muscles and muscle groups in the trunk."
+      },
+      {
+        "code": "b7306",
+        "title": "b7306 Power of all muscles of the body",
+        "description": "Functions related to the force generated by the contraction of all muscles and muscle groups of the body."
+      },
+      {
+        "code": "b7308",
+        "title": "b7308 Muscle power functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7309",
+        "title": "b7309 Muscle power functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b730",
+    "title": "b730 Muscle power functions",
+    "description": "Functions related to the force generated by the contraction of a muscle or muscle groups."
+  },
+  {
+    "children": [
+      {
+        "code": "b7350",
+        "title": "b7350 Tone of isolated muscles and muscle groups",
+        "description": "Functions related to the tension present in the resting isolated muscles and muscle groups and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7351",
+        "title": "b7351 Tone of muscles of one limb",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups in one arm or leg and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7352",
+        "title": "b7352 Tone of muscles of one side of body",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups of the right or left side of the body and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7353",
+        "title": "b7353 Tone of muscles of lower half of body",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups in the lower half of the body and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7354",
+        "title": "b7354 Tone of muscles of all limbs",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups in all four limbs and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7355",
+        "title": "b7355 Tone of muscles of trunk",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups of the trunk and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7356",
+        "title": "b7356 Tone of all muscles of the body",
+        "description": "Functions related to the tension present in the resting muscles and muscle groups of the whole body and the resistance offered when trying to move those muscles passively."
+      },
+      {
+        "code": "b7358",
+        "title": "b7358 Muscle tone functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7359",
+        "title": "b7359 Muscle tone functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b735",
+    "title": "b735 Muscle tone functions",
+    "description": "Functions related to the tension present in the resting muscles and the resistance offered when trying to move the muscles passively."
+  },
+  {
+    "children": [
+      {
+        "code": "b7400",
+        "title": "b7400 Endurance of isolated muscles",
+        "description": "Functions related to sustaining muscle contraction of isolated muscles for the required period of time."
+      },
+      {
+        "code": "b7401",
+        "title": "b7401 Endurance of muscle groups",
+        "description": "Functions related to sustaining muscle contraction of isolated muscle groups for the required period of time."
+      },
+      {
+        "code": "b7402",
+        "title": "b7402 Endurance of all muscles of the body",
+        "description": "Functions related to sustaining muscle contraction of all muscles of the body for the required period of time."
+      },
+      {
+        "code": "b7408",
+        "title": "b7408 Muscle endurance functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7409",
+        "title": "b7409 Muscle endurance functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b740",
+    "title": "b740 Muscle endurance functions",
+    "description": "Functions related to sustaining muscle contraction for the required period of time."
+  },
+  {
+    "code": "b749",
+    "title": "b749 Muscle functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "b7500",
+        "title": "b7500 Stretch motor reflex",
+        "description": "Functions of involuntary contractions of muscles automatically induced by stretching."
+      },
+      {
+        "code": "b7501",
+        "title": "b7501 Reflexes generated by noxious stimuli",
+        "description": "Functions of involuntary contractions of muscles automatically induced by painful or other noxious stimuli."
+      },
+      {
+        "code": "b7502",
+        "title": "b7502 Reflexes generated by other exteroceptive stimuli",
+        "description": "Functions of involuntary contractions of muscles automatically induced by external stimuli other than noxious stimuli."
+      },
+      {
+        "code": "b7508",
+        "title": "b7508 Motor reflex functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7509",
+        "title": "b7509 Motor reflex functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b750",
+    "title": "b750 Motor reflex functions",
+    "description": "Functions of involuntary contraction of muscles automatically induced by specific stimuli."
+  },
+  {
+    "code": "b755",
+    "title": "b755 Involuntary movement reaction functions",
+    "description": "Functions of involuntary contractions of large muscles or the whole body induced by body position, balance and threatening stimuli."
+  },
+  {
+    "children": [
+      {
+        "code": "b7600",
+        "title": "b7600 Control of simple voluntary movements",
+        "description": "Functions associated with control over and coordination of simple or isolated voluntary movements."
+      },
+      {
+        "code": "b7601",
+        "title": "b7601 Control of complex voluntary movements",
+        "description": "Functions associated with control over and coordination of complex voluntary movements."
+      },
+      {
+        "code": "b7602",
+        "title": "b7602 Coordination of voluntary movements",
+        "description": "Functions associated with coordination of simple and complex voluntary movements, performing movements in an orderly combination."
+      },
+      {
+        "code": "b7603",
+        "title": "b7603 Supportive functions of arm or leg",
+        "description": "Functions associated with control over and coordination of voluntary movements by placing weight either on the arms (elbows or hands) or on the legs (knees or feet)."
+      },
+      {
+        "code": "b7608",
+        "title": "b7608 Control of voluntary movement functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7609",
+        "title": "b7609 Control of voluntary movement functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b760",
+    "title": "b760 Control of voluntary movement functions",
+    "description": "Functions associated with control over and coordination of voluntary movements."
+  },
+  {
+    "children": [
+      {
+        "code": "b7650",
+        "title": "b7650 Involuntary contractions of muscles",
+        "description": "Functions of unintentional, non- or semi-purposive involuntary contractions of a muscle or group of muscles, such as those involved as part of a psychological dysfunction."
+      },
+      {
+        "code": "b7651",
+        "title": "b7651 Tremor",
+        "description": "Functions of alternating contraction and relaxation of a group of muscles around a joint, resulting in shakiness."
+      },
+      {
+        "code": "b7652",
+        "title": "b7652 Tics and mannerisms",
+        "description": "Functions of repetitive, quasi-purposive, involuntary contractions of a group of muscles."
+      },
+      {
+        "code": "b7653",
+        "title": "b7653 Stereotypies and motor perseveration",
+        "description": "Functions of spontaneous, non-purposive movements such as repetitively rocking back and forth and nodding the head or wiggling."
+      },
+      {
+        "code": "b7658",
+        "title": "b7658 Involuntary movement functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7659",
+        "title": "b7659 Involuntary movement functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b765",
+    "title": "b765 Involuntary movement functions",
+    "description": "Functions of unintentional, non- or semi-purposive involuntary contractions of a muscle or group of muscles."
+  },
+  {
+    "code": "b770",
+    "title": "b770 Gait pattern functions",
+    "description": "Functions of movement patterns associated with walking, running or other whole body movements."
+  },
+  {
+    "children": [
+      {
+        "code": "b7800",
+        "title": "b7800 Sensation of muscle stiffness",
+        "description": "Sensation of tightness or stiffness of muscles."
+      },
+      {
+        "code": "b7801",
+        "title": "b7801 Sensation of muscle spasm",
+        "description": "Sensation of involuntary contraction of a muscle or a group of muscles."
+      },
+      {
+        "code": "b7808",
+        "title": "b7808 Sensations related to muscles and movement functions, other specified",
+        "description": ""
+      },
+      {
+        "code": "b7809",
+        "title": "b7809 Sensations related to muscles and movement functions, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "b780",
+    "title": "b780 Sensations related to muscles and movement functions",
+    "description": "Sensations associated with the muscles or muscle groups of the body and their movement."
+  },
+  {
+    "code": "b789",
+    "title": "b789 Movement functions, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b798",
+    "title": "b798 Neuromusculoskeletal and movement-related functions, other specified",
+    "description": ""
+  },
+  {
+    "code": "b799",
+    "title": "b799 Neuromusculoskeletal and movement-related functions, unspecified",
+    "description": ""
+  },
+  {
+    "code": "b810",
+    "title": "b810 Protective functions of the skin",
+    "description": "Functions of the skin for protecting the body from physical, chemical and biological threats."
+  },
+  {
+    "code": "b820",
+    "title": "b820 Repair functions of the skin",
+    "description": "Functions of the skin for repairing breaks and other damage to the skin."
+  },
+  {
+    "code": "b830",
+    "title": "b830 Other functions of the skin",
+    "description": "Functions of the skin other than protection and repair, such as cooling and sweat secretion."
+  },
+  {
+    "code": "b840",
+    "title": "b840 Sensation related to the skin",
+    "description": "Sensations related to the skin such as itching, burning sensation and tingling."
+  },
+  {
+    "code": "b849",
+    "title": "b849 Functions of the skin, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b850",
+    "title": "b850 Functions of hair",
+    "description": "Functions of the hair, such as protection, coloration and appearance."
+  },
+  {
+    "code": "b860",
+    "title": "b860 Functions of nails",
+    "description": "Functions of the nails, such as protection, scratching and appearance."
+  },
+  {
+    "code": "b869",
+    "title": "b869 Functions of the hair and nails, other specified and unspecified",
+    "description": ""
+  },
+  {
+    "code": "b898",
+    "title": "b898 Functions of the skin and related structures, other specified",
+    "description": ""
+  },
+  {
+    "code": "b899",
+    "title": "b899 Functions of the skin and related structures, unspecified",
+    "description": ""
+  }
+]

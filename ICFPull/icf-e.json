@@ -1,0 +1,1333 @@
+[
+  {
+    "children": [
+      {
+        "code": "e1100",
+        "title": "e1100 Food",
+        "description": "Any natural or human-made object or substance gathered, processed or manufactured to be eaten, such as raw, processed and prepared food and liquids of different consistencies, herbs and minerals (vitamin and other supplements)."
+      },
+      {
+        "code": "e1101",
+        "title": "e1101 Drugs",
+        "description": "Any natural or human-made object or substance gathered, processed or manufactured for medicinal purposes, such as allopathic and naturopathic medication."
+      },
+      {
+        "code": "e1108",
+        "title": "e1108 Products or substances for personal consumption, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1109",
+        "title": "e1109 Products or substances for personal consumption, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e110",
+    "title": "e110 Products or substances for personal consumption",
+    "description": "Any natural or human-made object or substance gathered, processed or manufactured for ingestion."
+  },
+  {
+    "children": [
+      {
+        "code": "e1150",
+        "title": "e1150 General products and technology for personal use in daily living",
+        "description": "Equipment, products and technologies used by people in daily activities, such as clothes, textiles, furniture, appliances, cleaning products and tools, not adapted or specially designed."
+      },
+      {
+        "code": "e1151",
+        "title": "e1151 Assistive products and technology for personal use in daily living",
+        "description": "Adapted or specially designed equipment, products and technologies that assist people in daily living, such as prosthetic and orthotic devices, neural prostheses (e.g. functional stimulation devices that control bowels, bladder, breathing and heart rate), and environmental control units aimed at facilitating individuals\u0027 control over their indoor setting (scanners, remote control systems, voice-controlled systems, timer switches)."
+      },
+      {
+        "code": "e1158",
+        "title": "e1158 Products and technology for personal use in daily living, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1159",
+        "title": "e1159 Products and technology for personal use in daily living, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e115",
+    "title": "e115 Products and technology for personal use in daily living",
+    "description": "Equipment, products and technologies used by people in daily activities, including those adapted or specially designed, located in, on or near the person using them."
+  },
+  {
+    "children": [
+      {
+        "code": "e1200",
+        "title": "e1200 General products and technology for personal indoor and outdoor mobility and transportation",
+        "description": "Equipment, products and technologies used by people in activities of moving inside and outside buildings, such as motorized and non-motorized vehicles used for the transportation of people over ground, water and air (e.g. buses, cars, vans, other motor-powered vehicles and animal-powered transporters), not adapted or specially designed."
+      },
+      {
+        "code": "e1201",
+        "title": "e1201 Assistive products and technology for personal indoor and outdoor mobility and transportation",
+        "description": "Adapted or specially designed equipment, products and technologies that assist people to move inside and outside buildings, such as walking devices, special cars and vans, adaptations to vehicles, wheelchairs, scooters and transfer devices."
+      },
+      {
+        "code": "e1208",
+        "title": "e1208 Products and technology for personal indoor and outdoor mobility and transportation, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1209",
+        "title": "e1209 Products and technology for personal indoor and outdoor mobility and transportation, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e120",
+    "title": "e120 Products and technology for personal indoor and outdoor mobility and transportation",
+    "description": "Equipment, products and technologies used by people in activities of moving inside and outside buildings, including those adapted or specially designed, located in, on or near the person using them."
+  },
+  {
+    "children": [
+      {
+        "code": "e1250",
+        "title": "e1250 General products and technology for communication",
+        "description": "Equipment, products and technologies used by people in activities of sending and receiving information, such as optical and auditory devices, audio recorders and receivers, television and video equipment, telephone devices, sound transmission systems and face-to-face communication devices, not adapted or specially designed."
+      },
+      {
+        "code": "e1251",
+        "title": "e1251 Assistive products and technology for communication",
+        "description": "Adapted or specially designed equipment, products and technologies that assist people to send and receive information, such as specialized vision devices, electro-optical devices, specialized writing devices, drawing or handwriting devices, signalling systems and special computer software and hardware, cochlear implants, hearing aids, FM auditory trainers, voice prostheses, communication boards, glasses and contact lenses."
+      },
+      {
+        "code": "e1258",
+        "title": "e1258 Products and technology for communication, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1259",
+        "title": "e1259 Products and technology for communication, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e125",
+    "title": "e125 Products and technology for communication",
+    "description": "Equipment, products and technologies used by people in activities of sending and receiving information, including those adapted or specially designed, located in, on or near the person using them."
+  },
+  {
+    "children": [
+      {
+        "code": "e1300",
+        "title": "e1300 General products and technology for education",
+        "description": "Equipment, products, processes, methods and technology used for acquisition of knowledge, expertise or skill at any level, such as books, manuals, educational toys, computer hardware or software, not adapted or specially designed."
+      },
+      {
+        "code": "e1301",
+        "title": "e1301 Assistive products and technology for education",
+        "description": "Adapted and specially designed equipment, products, processes, methods and technology used for acquisition of knowledge, expertise or skill, such as specialized computer technology."
+      },
+      {
+        "code": "e1308",
+        "title": "e1308 Products and technology for education, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1309",
+        "title": "e1309 Products and technology for education, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e130",
+    "title": "e130 Products and technology for education",
+    "description": "Equipment, products, processes, methods and technology used for acquisition of knowledge, expertise or skill, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1350",
+        "title": "e1350 General products and technology for employment",
+        "description": "Equipment, products and technology used for employment to facilitate work activities, such as tools, machines and office equipment, not adapted or specially designed."
+      },
+      {
+        "code": "e1351",
+        "title": "e1351 Assistive products and technology for employment",
+        "description": "Adapted or specially designed equipment, products and technology used for employment to facilitate work activities, such as adjustable tables, desks and filing cabinets; remote control entry and exit of office doors; computer hardware, software, accessories and environmental control units aimed at facilitating an individual\u0027s conduct of work-related tasks and aimed at control of the work environment (e.g. scanners, remote control systems, voice-controlled systems and timer switches)."
+      },
+      {
+        "code": "e1358",
+        "title": "e1358 Products and technology for employment, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1359",
+        "title": "e1359 Products and technology for employment, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e135",
+    "title": "e135 Products and technology for employment",
+    "description": "Equipment, products and technology used for employment to facilitate work activities."
+  },
+  {
+    "children": [
+      {
+        "code": "e1400",
+        "title": "e1400 General products and technology for culture, recreation and sport",
+        "description": "Equipment, products and technology used for the conduct and enhancement of cultural, recreational and sporting activities, such as toys, skis, tennis balls and musical instruments, not adapted or specially designed."
+      },
+      {
+        "code": "e1401",
+        "title": "e1401 Assistive products and technology for culture, recreation and sport",
+        "description": "Adapted or specially designed equipment, products and technology used for the conduct and enhancement of cultural, recreational and sporting activities, such as modified mobility devices for sports, adaptations for musical and other artistic performance."
+      },
+      {
+        "code": "e1408",
+        "title": "e1408 Products and technology for culture, recreation and sport, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1409",
+        "title": "e1409 Products and technology for culture, recreation and sport, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e140",
+    "title": "e140 Products and technology for culture, recreation and sport",
+    "description": "Equipment, products and technology used for the conduct and enhancement of cultural, recreational and sporting activities, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1450",
+        "title": "e1450 General products and technology for the practice of religion or spirituality",
+        "description": "Products and technology, unique or mass-produced, that are given or take on a symbolic meaning in the context of the practice of religion or spirituality, such as spirit houses, maypoles, headdresses, masks, crucifixes, menorahs and prayer mats, not adapted or specially designed."
+      },
+      {
+        "code": "e1451",
+        "title": "e1451 Assistive products and technology for the practice of religion or spirituality",
+        "description": "Adapted or specially designed products and technology that are given, or take on a symbolic meaning in the context of the practice of religion or spirituality, such as Braille religious books, Braille tarot cards, and special protection for wheelchair wheels when entering temples."
+      },
+      {
+        "code": "e1458",
+        "title": "e1458 Products and technology for the practice of religion or spirituality, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1459",
+        "title": "e1459 Products and technology for the practice of religion or spirituality, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e145",
+    "title": "e145 Products and technology for the practice of religion and spirituality",
+    "description": "Products and technology, unique or mass-produced, that are given or take on a symbolic meaning in the context of the practice of religion or spirituality, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1500",
+        "title": "e1500 Design, construction and building products and technology for entering and exiting buildings for public use",
+        "description": "Products and technology of entry and exit from the human-made environment that is planned, designed and constructed for public use, such as design, building and construction of entries and exits to buildings for public use (e.g. workplaces, shops and theatres), public buildings, portable and stationary ramps, power-assisted doors, lever door handles and level door thresholds."
+      },
+      {
+        "code": "e1501",
+        "title": "e1501 Design, construction and building products and technology for gaining access to facilities inside buildings for public use",
+        "description": "Products and technology of indoor facilities in design, building and construction for public use, such as washroom facilities, telephones, audio loops, lifts or elevators, escalators, thermostats (for temperature regulation) and dispersed accessible seating in auditoriums or stadiums."
+      },
+      {
+        "code": "e1502",
+        "title": "e1502 Design, construction and building products and technology for way finding, path routing and designation of locations in buildings for public use",
+        "description": "Indoor and outdoor products and technology in design, building and construction for public use to assist people to find their way inside and immediately outside buildings and locate the places they want to go to, such as signage, in Braille or writing, size of corridors, floor surfaces, accessible kiosks and other forms of directories."
+      },
+      {
+        "code": "e1508",
+        "title": "e1508 Design, construction and building products and technology of buildings for public use, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1509",
+        "title": "e1509 Design, construction and building products and technology of buildings for public use, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e150",
+    "title": "e150 Design, construction and building products and technology of buildings for public use",
+    "description": "Products and technology that constitute an individual\u0027s indoor and outdoor human-made environment that is planned, designed and constructed for public use, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1550",
+        "title": "e1550 Design, construction and building products and technology for entering and exiting of buildings for private use",
+        "description": "Products and technology of entry and exit from the human-made environment that is planned, designed and constructed for private use, such as entries and exits to private homes, portable and stationary ramps, power-assisted doors, lever door handles and level door thresholds."
+      },
+      {
+        "code": "e1551",
+        "title": "e1551 Design, construction and building products and technology for gaining access to facilities in buildings for private use",
+        "description": "Products and technology related to design, building and construction inside buildings for private use, such as washroom facilities, telephones, audio loops, kitchen cabinets, appliances and electronic controls in private homes."
+      },
+      {
+        "code": "e1552",
+        "title": "e1552 Design, construction and building products and technology for way finding, path routing and designation of locations in buildings for private use",
+        "description": "Indoor and outdoor products and technology in the design, building and construction of path routing, for private use, to assist people to find their way inside and immediately outside buildings and locate the places they want to go to, such as signage, in Braille or writing, size of corridors and floor surfaces."
+      },
+      {
+        "code": "e1558",
+        "title": "e1558 Design, construction and building products and technology of buildings for private use, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1559",
+        "title": "e1559 Design, construction and building products and technology of buildings for private use, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e155",
+    "title": "e155 Design, construction and building products and technology of buildings for private use",
+    "description": "Products and technology that constitute an individual\u0027s indoor and outdoor human-made environment that is planned, designed and constructed for private use, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1600",
+        "title": "e1600 Products and technology of rural land development",
+        "description": "Products and technology in rural land areas, as they affect an individual\u0027s outdoor environment through the implementation of rural land use policies, design, planning and development of space, such as farm lands, pathways and signposting."
+      },
+      {
+        "code": "e1601",
+        "title": "e1601 Products and technology of suburban land development",
+        "description": "Products and technology in suburban land areas, as they affect an individual`s outdoor environment through the implementation of suburban land use policies, design, planning and development of space, such as kerb cuts, pathways, signposting and street lighting."
+      },
+      {
+        "code": "e1602",
+        "title": "e1602 Products and technology of urban land development",
+        "description": "Products and technology in urban land areas as they affect an individual`s outdoor environment through the implementation of urban land use policies, design, planning and development of space, such as kerb cuts, ramps, signposting and street lighting."
+      },
+      {
+        "code": "e1603",
+        "title": "e1603 Products and technology of parks, conservation and wildlife areas",
+        "description": "Products and technology in land areas making up parks, conservation and wildlife areas, as they affect an individual`s outdoor environment through the implementation of land use policies and design, planning and development of space, such as park signage and wildlife trails."
+      },
+      {
+        "code": "e1608",
+        "title": "e1608 Products and technology of land development, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1609",
+        "title": "e1609 Products and technology of land development, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e160",
+    "title": "e160 Products and technology of land development",
+    "description": "Products and technology of land areas, as they affect an individual\u0027s outdoor environment through the implementation of land use policies, design, planning and development of space, including those adapted or specially designed."
+  },
+  {
+    "children": [
+      {
+        "code": "e1650",
+        "title": "e1650 Financial assets",
+        "description": "Products, such as money and other financial instruments, which serve as a medium of exchange for labour, capital goods and services."
+      },
+      {
+        "code": "e1651",
+        "title": "e1651 Tangible assets",
+        "description": "Products or objects, such as houses and land, clothing, food and technical goods, which serve as a medium of exchange for labour, capital goods and services."
+      },
+      {
+        "code": "e1652",
+        "title": "e1652 Intangible assets",
+        "description": "Products, such as intellectual property, knowledge and skills, which serve as a medium of exchange for labour, capital goods and services."
+      },
+      {
+        "code": "e1658",
+        "title": "e1658 Assets, other specified",
+        "description": ""
+      },
+      {
+        "code": "e1659",
+        "title": "e1659 Assets, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e165",
+    "title": "e165 Assets",
+    "description": "Products or objects of economic exchange such as money, goods, property and other valuables that an individual owns or of which he or she has rights of use."
+  },
+  {
+    "children": [
+      {
+        "code": "e2100",
+        "title": "e2100 Land forms",
+        "description": "Features of land forms, such as mountains, hills, valleys and plains."
+      },
+      {
+        "code": "e2101",
+        "title": "e2101 Bodies of water",
+        "description": "Features of bodies of water, such as lakes, dams, rivers and streams."
+      },
+      {
+        "code": "e2108",
+        "title": "e2108 Physical geography, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2109",
+        "title": "e2109 Physical geography, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e210",
+    "title": "e210 Physical geography",
+    "description": "Features of land forms and bodies of water."
+  },
+  {
+    "children": [
+      {
+        "code": "e2150",
+        "title": "e2150 Demographic change",
+        "description": "Changes occurring within groups of people, such as the composition and variation in the total number of individuals in an area caused by birth, death, ageing of a population and migration."
+      },
+      {
+        "code": "e2151",
+        "title": "e2151 Population density",
+        "description": "Number of people per unit of land area, including features such as high and low density."
+      },
+      {
+        "code": "e2158",
+        "title": "e2158 Population, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2159",
+        "title": "e2159 Population, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e215",
+    "title": "e215 Population",
+    "description": "Groups of people living in a given environment who share the same pattern of environmental adaptation."
+  },
+  {
+    "children": [
+      {
+        "code": "e2200",
+        "title": "e2200 Plants",
+        "description": "Any of various photosynthetic, eukaryotic, multicellular organisms of the kingdom Plantae characteristically producing embryos, containing chloroplasts, having cellulose cell walls, and lacking the power of locomotion, such as trees, flowers, shrubs and vines."
+      },
+      {
+        "code": "e2201",
+        "title": "e2201 Animals",
+        "description": "Multicellular organisms of the kingdom Animalia, differing from plants in certain typical characteristics such as capacity for locomotion, non-photosynthetic metabolism, pronounced response to stimuli, restricted growth, and fixed bodily structure, such as wild or farm animals, reptiles, birds, fish and mammals."
+      },
+      {
+        "code": "e2208",
+        "title": "e2208 Fauna and flora, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2209",
+        "title": "e2209 Fauna and flora, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e220",
+    "title": "e220 Flora and fauna",
+    "description": "Plants and animals."
+  },
+  {
+    "children": [
+      {
+        "code": "e2250",
+        "title": "e2250 Temperature",
+        "description": "Degree of heat or cold, such as high and low temperature, normal or extreme temperature."
+      },
+      {
+        "code": "e2251",
+        "title": "e2251 Humidity",
+        "description": "Level of moisture in the air, such as high or low humidity."
+      },
+      {
+        "code": "e2252",
+        "title": "e2252 Atmospheric pressure",
+        "description": "Pressure of the surrounding air, such as pressure related to height above sea level or meteorological conditions."
+      },
+      {
+        "code": "e2253",
+        "title": "e2253 Precipitation",
+        "description": "Falling of moisture, such as rain, dew, snow, sleet and hail."
+      },
+      {
+        "code": "e2254",
+        "title": "e2254 Wind",
+        "description": "Air in more or less rapid natural motion, such as a breeze, gale or gust."
+      },
+      {
+        "code": "e2255",
+        "title": "e2255 Seasonal variation",
+        "description": "Natural, regular and predictable changes from one season to the next, such as summer, autumn, winter and spring."
+      },
+      {
+        "code": "e2258",
+        "title": "e2258 Climate, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2259",
+        "title": "e2259 Climate, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e225",
+    "title": "e225 Climate",
+    "description": "Meteorological features and events, such as the weather."
+  },
+  {
+    "code": "e230",
+    "title": "e230 Natural events",
+    "description": "Geographic and atmospheric changes that cause disruption in an individual\u0027s physical environment, occurring regularly or irregularly, such as earthquakes and severe or violent weather conditions, e.g. tornadoes, hurricanes, typhoons, floods, forest fires and ice-storms."
+  },
+  {
+    "code": "e235",
+    "title": "e235 Human-caused events",
+    "description": "Alterations or disturbances in the natural environment, caused by humans, that may result in the disruption of people\u0027s day-to-day lives, including events or conditions linked to conflict and wars, such as the displacement of people, destruction of social infrastructure, homes and lands, environmental disasters and land, water or air pollution (e.g. toxic spills)."
+  },
+  {
+    "children": [
+      {
+        "code": "e2400",
+        "title": "e2400 Light intensity",
+        "description": "Level or amount of energy being emitted by either a natural (e.g. sun) or an artificial source of light."
+      },
+      {
+        "code": "e2401",
+        "title": "e2401 Light quality",
+        "description": "The nature of the light being provided and related colour contrasts created in the visual surroundings, and which may provide useful information about the world (e.g. visual information on the presence of stairs or a door) or distractions (e.g. too many visual images)."
+      },
+      {
+        "code": "e2408",
+        "title": "e2408 Light, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2409",
+        "title": "e2409 Light, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e240",
+    "title": "e240 Light",
+    "description": "Electromagnetic radiation by which things are made visible by either sunlight or artificial lighting (e.g. candles, oil or paraffin lamps, fires and electricity), and which may provide useful or distracting information about the world."
+  },
+  {
+    "children": [
+      {
+        "code": "e2450",
+        "title": "e2450 Day/night cycles",
+        "description": "Natural, regular and predictable changes from day through to night and back to day, such as day, night, dawn and dusk."
+      },
+      {
+        "code": "e2451",
+        "title": "e2451 Lunar cycles",
+        "description": "Natural, regular and predictable changes of the moon\u0027s position in relation to the earth."
+      },
+      {
+        "code": "e2458",
+        "title": "e2458 Time-related changes, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2459",
+        "title": "e2459 Time-related changes, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e245",
+    "title": "e245 Time-related changes",
+    "description": "Natural, regular or predictable temporal change."
+  },
+  {
+    "children": [
+      {
+        "code": "e2500",
+        "title": "e2500 Sound intensity",
+        "description": "Level or volume of auditory phenomenon determined by the amount of energy being generated, where high energy levels are perceived as loud sounds and low energy levels as soft sounds."
+      },
+      {
+        "code": "e2501",
+        "title": "e2501 Sound quality",
+        "description": "Nature of a sound as determined by the wavelength and wave pattern of the sound and perceived as the timbre and tone, such as harshness or melodiousness, and which may provide useful information about the world (e.g. sound of dog barking versus a cat miaowing) or distractions (e.g. background noise)."
+      },
+      {
+        "code": "e2508",
+        "title": "e2508 Sound, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2509",
+        "title": "e2509 Sound, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e250",
+    "title": "e250 Sound",
+    "description": "A phenomenon that is or may be heard, such as banging, ringing, thumping, singing, whistling, yelling or buzzing, in any volume, timbre or tone, and that may provide useful or distracting information about the world."
+  },
+  {
+    "code": "e255",
+    "title": "e255 Vibration",
+    "description": "Regular or irregular to and fro motion of an object or an individual caused by a physical disturbance, such as shaking, quivering, quick jerky movements of things, buildings or people caused by small or large equipment, aircraft and explosions."
+  },
+  {
+    "children": [
+      {
+        "code": "e2600",
+        "title": "e2600 Indoor air quality",
+        "description": "Nature of the air inside buildings or enclosed areas, as determined by odour, smoke, humidity, air conditioning (controlled air quality) or uncontrolled air quality, and which may provide useful information about the world (e.g. smell of leaking gas) or distractions (e.g. overpowering smell of perfume)."
+      },
+      {
+        "code": "e2601",
+        "title": "e2601 Outdoor air quality",
+        "description": "Nature of the air outside buildings or enclosed areas, as determined by odour, smoke, humidity, ozone levels, and other features of the atmosphere, and which may provide useful information about the world (e.g. smell of rain) or distractions (e.g. toxic smells)."
+      },
+      {
+        "code": "e2608",
+        "title": "e2608 Air quality, other specified",
+        "description": ""
+      },
+      {
+        "code": "e2609",
+        "title": "e2609 Air quality, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e260",
+    "title": "e260 Air quality",
+    "description": "Characteristics of the atmosphere (outside buildings) or enclosed areas of air (inside buildings), and which may provide useful or distracting information about the world."
+  },
+  {
+    "code": "e298",
+    "title": "e298 Natural environment and human-made changes to environment, other specified",
+    "description": ""
+  },
+  {
+    "code": "e299",
+    "title": "e299 Natural environment and human-made changes to environment, unspecified",
+    "description": ""
+  },
+  {
+    "code": "e310",
+    "title": "e310 Immediate family",
+    "description": "Individuals related by birth, marriage or other relationship recognized by the culture as immediate family, such as spouses, partners, parents, siblings, children, foster parents, adoptive parents and grandparents."
+  },
+  {
+    "code": "e315",
+    "title": "e315 Extended family",
+    "description": "Individuals related through family or marriage or other relationships recognized by the culture as extended family, such as aunts, uncles, nephews and nieces."
+  },
+  {
+    "code": "e320",
+    "title": "e320 Friends",
+    "description": "Individuals who are close and ongoing participants in relationships characterized by trust and mutual support."
+  },
+  {
+    "code": "e325",
+    "title": "e325 Acquaintances, peers, colleagues, neighbours and community members",
+    "description": "Individuals who are familiar to each other as acquaintances, peers, colleagues, neighbours, and community members, in situations of work, school, recreation, or other aspects of life, and who share demographic features such as age, gender, religious creed or ethnicity or pursue common interests."
+  },
+  {
+    "code": "e330",
+    "title": "e330 People in positions of authority",
+    "description": "Individuals who have decision-making responsibilities for others and who have socially defined influence or power based on their social, economic, cultural or religious roles in society, such as teachers, employers, supervisors, religious leaders, substitute decision-makers, guardians or trustees."
+  },
+  {
+    "code": "e335",
+    "title": "e335 People in subordinate positions",
+    "description": "Individuals whose day-to-day life is influenced by people in positions of authority in work, school or other settings, such as students, workers and members of a religious group."
+  },
+  {
+    "code": "e340",
+    "title": "e340 Personal care providers and personal assistants",
+    "description": "Individuals who provide services as required to support individuals in their daily activities and maintenance of performance at work, education or other life situation, provided either through public or private funds, or else on a voluntary basis, such as providers of support for home-making and maintenance, personal assistants, transport assistants, paid help, nannies and others who function as primary caregivers."
+  },
+  {
+    "code": "e345",
+    "title": "e345 Strangers",
+    "description": "Individuals who are unfamiliar and unrelated, or those who have not yet established a relationship or association, including persons unknown to the individual but who are sharing a life situation with them, such as substitute teachers, co-workers or care providers."
+  },
+  {
+    "code": "e350",
+    "title": "e350 Domesticated animals",
+    "description": "Animals that provide physical, emotional, or psychological support, such as pets (dogs, cats, birds, fish, etc.) and animals for personal mobility and transportation."
+  },
+  {
+    "code": "e355",
+    "title": "e355 Health professionals",
+    "description": "All service providers working within the context of the health system, such as doctors, nurses, physiotherapists, occupational therapists, speech therapists, audiologists, orthotist-prosthetists, medical social workers."
+  },
+  {
+    "code": "e360",
+    "title": "e360 Other professionals",
+    "description": "All service providers working outside the health system, including lawyers, social workers, teachers, architects and designers."
+  },
+  {
+    "code": "e398",
+    "title": "e398 Support and relationships, other specified",
+    "description": ""
+  },
+  {
+    "code": "e399",
+    "title": "e399 Support and relationships, unspecified",
+    "description": ""
+  },
+  {
+    "code": "e410",
+    "title": "e410 Individual attitudes of immediate family members",
+    "description": "General or specific opinions and beliefs of immediate family members about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e415",
+    "title": "e415 Individual attitudes of extended family members",
+    "description": "General or specific opinions and beliefs of extended family members about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e420",
+    "title": "e420 Individual attitudes of friends",
+    "description": "General or specific opinions and beliefs of friends about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e425",
+    "title": "e425 Individual attitudes of acquaintances, peers, colleagues, neighbours and community members",
+    "description": "General or specific opinions and beliefs of acquaintances, peers, colleagues, neighbours and community members about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e430",
+    "title": "e430 Individual attitudes of people in positions of authority",
+    "description": "General or specific opinions and beliefs of people in positions of authority about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e435",
+    "title": "e435 Individual attitudes of people in subordinate positions",
+    "description": "General or specific opinions and beliefs of people in subordinate positions about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e440",
+    "title": "e440 Individual attitudes of personal care providers and personal assistants",
+    "description": "General or specific opinions and beliefs of personal care providers and personal assistants about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e445",
+    "title": "e445 Individual attitudes of strangers",
+    "description": "General or specific opinions and beliefs of strangers about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e450",
+    "title": "e450 Individual attitudes of health professionals",
+    "description": "General or specific opinions and beliefs of health professionals about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e455",
+    "title": "e455 Individual attitudes of health-related professionals",
+    "description": "General or specific opinions and beliefs of health-related professionals about the person or about other matters (e.g. social, political and economic issues), that influence individual behaviour and actions."
+  },
+  {
+    "code": "e460",
+    "title": "e460 Societal attitudes",
+    "description": "General or specific opinions and beliefs generally held by people of a culture, society, subcultural or other social group about other individuals or about other social, political and economic issues, that influence group or individual behaviour and actions."
+  },
+  {
+    "code": "e465",
+    "title": "e465 Social norms, practices and ideologies",
+    "description": "Customs, practices, rules and abstract systems of values and normative beliefs (e.g. ideologies, normative world views and moral philosophies) that arise within social contexts and that affect or create societal and individual practices and behaviours, such as social norms of moral and religious behaviour or etiquette; religious doctrine and resulting norms and practices; norms governing rituals or social gatherings."
+  },
+  {
+    "code": "e498",
+    "title": "e498 Attitudes, other specified",
+    "description": ""
+  },
+  {
+    "code": "e499",
+    "title": "e499 Attitudes, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "e5100",
+        "title": "e5100 Services for the production of consumer goods",
+        "description": "Services and programmes for the collection, creation, production and manufacturing of consumer goods and products, such as for products and technology used for mobility, communication, education, transportation, employment and housework, including those who provide these services."
+      },
+      {
+        "code": "e5101",
+        "title": "e5101 Systems for the production of consumer goods",
+        "description": "Administrative control and monitoring mechanisms, such as regional, national or international organizations that set standards (e.g. International Organization for Standardization) and consumer bodies, that govern the collection, creation, production and manufacturing of consumer goods and products."
+      },
+      {
+        "code": "e5102",
+        "title": "e5102 Policies for the production of consumer goods",
+        "description": "Legislation, regulations and standards for the collection, creation, production and manufacturing of consumer goods and products, such as food and drug regulations"
+      },
+      {
+        "code": "e5108",
+        "title": "e5108 Services, systems and policies for the production of consumer goods, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5109",
+        "title": "e5109 Services, systems and policies for the production of consumer goods, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e510",
+    "title": "e510 Services, systems and policies for the production of consumer goods",
+    "description": "Services, systems and policies that govern and provide for the production of objects and products consumed or used by people."
+  },
+  {
+    "children": [
+      {
+        "code": "e5150",
+        "title": "e5150 Architecture and construction services",
+        "description": "Services and programmes for design, construction and maintenance of residential, commercial, industrial and public buildings, such as house-building, the operationalization of design principles, building codes, regulations and standards, including those who provide these services."
+      },
+      {
+        "code": "e5151",
+        "title": "e5151 Architecture and construction systems",
+        "description": "Administrative control and monitoring mechanisms that govern the planning, design, construction and maintenance of residential, commercial, industrial and public buildings, such as for implementing and monitoring building codes, construction standards, and fire and life safety standards."
+      },
+      {
+        "code": "e5152",
+        "title": "e5152 Architecture and construction policies",
+        "description": "Legislation, regulations and standards that govern the planning, design, construction and maintenance of residential, commercial, industrial and public buildings, such as policies on building codes, construction standards, and fire and life safety standards."
+      },
+      {
+        "code": "e5158",
+        "title": "e5158 Architecture and construction services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5159",
+        "title": "e5159 Architecture and construction services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e515",
+    "title": "e515 Architecture and construction services, systems and policies",
+    "description": "Services, systems and policies for the design and construction of buildings, public and private."
+  },
+  {
+    "children": [
+      {
+        "code": "e5200",
+        "title": "e5200 Open space planning services",
+        "description": "Services and programmes aimed at planning, creating and maintaining urban, suburban, rural, recreational, conservation and environmental space, meeting and commercial open spaces (plazas, open-air markets) and pedestrian and vehicular transportation routes for intended uses, including those who provide these services."
+      },
+      {
+        "code": "e5201",
+        "title": "e5201 Open space planning systems",
+        "description": "Administrative control and monitoring mechanisms, such as for the implementation of local, regional or national planning acts, design codes, heritage or conservation policies and environmental planning policy, that govern the planning, design, development and maintenance of open space, including rural, suburban and urban land, parks, conservation areas and wildlife reserves."
+      },
+      {
+        "code": "e5202",
+        "title": "e5202 Open space planning policies",
+        "description": "Legislation, regulations and standards that govern the planning, design, development and maintenance of open space, including rural land, suburban land, urban land, parks, conservation areas and wildlife reserves, such as local, regional or national planning acts, design codes, heritage or conservation policies, and environmental planning policies."
+      },
+      {
+        "code": "e5208",
+        "title": "e5208 Open space planning services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5209",
+        "title": "e5209 Open space planning services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e520",
+    "title": "e520 Open space planning services, systems and policies",
+    "description": "Services, systems and policies for the planning, design, development and maintenance of public lands, (e.g. parks, forests, shorelines, wetlands) and private lands in the rural, suburban and urban context."
+  },
+  {
+    "children": [
+      {
+        "code": "e5250",
+        "title": "e5250 Housing services",
+        "description": "Services and programmes aimed at locating, providing and maintaining houses or shelters for persons to live in, such as estate agencies, housing organizations, shelters for homeless people, including those who provide these services."
+      },
+      {
+        "code": "e5251",
+        "title": "e5251 Housing systems",
+        "description": "Administrative control and monitoring mechanisms that govern housing or sheltering of people, such as systems for implementing and monitoring housing policies."
+      },
+      {
+        "code": "e5252",
+        "title": "e5252 Housing policies",
+        "description": "Legislation, regulations and standards that govern housing or sheltering of people, such as legislation and policies for determination of eligibility for housing or shelter, policies concerning government involvement in developing and maintaining housing, and policies concerning how and where housing is developed."
+      },
+      {
+        "code": "e5258",
+        "title": "e5258 Housing services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5259",
+        "title": "e5259 Housing services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e525",
+    "title": "e525 Housing services, systems and policies",
+    "description": "Services, systems and policies for the provision of shelters, dwellings or lodging for people."
+  },
+  {
+    "children": [
+      {
+        "code": "e5300",
+        "title": "e5300 Utilities services",
+        "description": "Services and programmes supplying the population as a whole with essential energy (e.g. fuel and electricity), sanitation, water and other essential services (e.g. emergency repair services) for residential and commercial consumers, including those who provide these services."
+      },
+      {
+        "code": "e5301",
+        "title": "e5301 Utilities systems",
+        "description": "Administrative control and monitoring mechanisms that govern the provision of utilities services, such as health and safety boards and consumer councils."
+      },
+      {
+        "code": "e5302",
+        "title": "e5302 Utilities policies",
+        "description": "Legislation, regulations and standards that govern the provision of utilities services, such as health and safety standards governing delivery and supply of water and fuel, sanitation practices in communities, and policies for other essential services and supply during shortages or natural disasters."
+      },
+      {
+        "code": "e5308",
+        "title": "e5308 Utilities services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5309",
+        "title": "e5309 Utilities services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e530",
+    "title": "e530 Utilities services, systems and policies",
+    "description": "Services, systems and policies for publicly provided utilities, such as water, fuel, electricity, sanitation, public transportation and essential services."
+  },
+  {
+    "children": [
+      {
+        "code": "e5350",
+        "title": "e5350 Communication services",
+        "description": "Services and programmes aimed at transmitting information by a variety of methods such as telephone, fax, surface and air mail, electronic mail and other computer-based systems (e.g. telephone relay, teletype, teletext, and internet services), including those who provide these services."
+      },
+      {
+        "code": "e5351",
+        "title": "e5351 Communication systems",
+        "description": "Administrative control and monitoring mechanisms, such as telecommunication regulation authorities and other such bodies, that govern the transmission of information by a variety of methods, including telephone, fax, surface and air mail, electronic mail and computer-based systems."
+      },
+      {
+        "code": "e5352",
+        "title": "e5352 Communication policies",
+        "description": "Legislation, regulations and standards that govern the transmission of information by a variety of methods including telephone, fax, post office, electronic mail and computer-based systems, such as eligibility for access to communication services, requirements for a postal address, and standards for provision of telecommunications."
+      },
+      {
+        "code": "e5358",
+        "title": "e5358 Communication services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5359",
+        "title": "e5359 Communication services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e535",
+    "title": "e535 Communication services, systems and policies",
+    "description": "Services, systems and policies for the transmission and exchange of information."
+  },
+  {
+    "children": [
+      {
+        "code": "e5400",
+        "title": "e5400 Transportation services",
+        "description": "Services and programmes aimed at moving persons or goods by road, paths, rail, air or water, by public or private transport, including those who provide these services."
+      },
+      {
+        "code": "e5401",
+        "title": "e5401 Transportation systems",
+        "description": "Administrative control and monitoring mechanisms that govern the moving of persons or goods by road, paths, rail, air or water, such as systems for determining eligibility for operating vehicles and, implementation and monitoring of health and safety standards related to use of different types of transportation."
+      },
+      {
+        "code": "e5402",
+        "title": "e5402 Transportation policies",
+        "description": "Legislation, regulations and standards that govern the moving of persons or goods by road, paths, rail, air or water, such as transportation planning acts and policies, policies for the provision and access to public transportation."
+      },
+      {
+        "code": "e5408",
+        "title": "e5408 Transportation services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5409",
+        "title": "e5409 Transportation services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e540",
+    "title": "e540 Transportation services, systems and policies",
+    "description": "Services, systems and policies for enabling people or goods to move or be moved from one location to another."
+  },
+  {
+    "children": [
+      {
+        "code": "e5450",
+        "title": "e5450 Civil protection services",
+        "description": "Services and programmes organized by the community and aimed at safeguarding people and property, such as fire, police, emergency and ambulance services, including those who provide these services."
+      },
+      {
+        "code": "e5451",
+        "title": "e5451 Civil protection systems",
+        "description": "Administrative control and monitoring mechanisms that govern the safeguarding of people and property, such as systems by which provision of police, fire, emergency and ambulance services are organized."
+      },
+      {
+        "code": "e5452",
+        "title": "e5452 Civil protection policies",
+        "description": "Legislation, regulations and standards that govern the safeguarding of people and property, such as policies governing provision of police, fire, emergency and ambulance services."
+      },
+      {
+        "code": "e5458",
+        "title": "e5458 Civil protection services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5459",
+        "title": "e5459 Civil protection services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e545",
+    "title": "e545 Civil protection services, systems and policies",
+    "description": "Services, systems and policies aimed at safeguarding people and property."
+  },
+  {
+    "children": [
+      {
+        "code": "e5500",
+        "title": "e5500 Legal services",
+        "description": "Services and programmes aimed at providing the authority of the state as defined in law, such as courts, tribunals and other agencies for hearing and settling civil litigation and criminal trials, attorney representation, services of notaries, mediation, arbitration and correctional or penal facilities, including those who provide these services."
+      },
+      {
+        "code": "e5501",
+        "title": "e5501 Legal systems",
+        "description": "Administrative control and monitoring mechanisms that govern the administration of justice, such as systems for implementing and monitoring formal rules (e.g. laws, regulations, customary law, religious law, international laws and conventions)."
+      },
+      {
+        "code": "e5502",
+        "title": "e5502 Legal policies",
+        "description": "Legislation, regulations and standards, such as laws, customary law, religious law, international laws and conventions, that govern the administration of justice."
+      },
+      {
+        "code": "e5508",
+        "title": "e5508 Legal services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5509",
+        "title": "e5509 Legal services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e550",
+    "title": "e550 Legal services, systems and policies",
+    "description": "Services, systems and policies concerning the legislation and other law of a country."
+  },
+  {
+    "children": [
+      {
+        "code": "e5550",
+        "title": "e5550 Associations and organizational services",
+        "description": "Services and programmes provided by people who have joined together in the pursuit of common, noncommercial interests with people who have the same interests, where the provision of such services may be tied to membership, such as associations and organizations providing recreation and leisure, sporting, cultural, religious and mutual aid services."
+      },
+      {
+        "code": "e5551",
+        "title": "e5551 Associations and organizational systems",
+        "description": "Administrative control and monitoring mechanisms that govern the relationships and activities of people coming together with common noncommercial interests and the establishment and conduct of associations and organizations such as mutual aid organizations, recreational and leisure organizations, cultural and religious associations and not-for-profit organizations."
+      },
+      {
+        "code": "e5552",
+        "title": "e5552 Associations and organizational policies",
+        "description": "Legislation, regulations and standards that govern the relationships and activities of people coming together with common noncommercial interests, such as policies that govern the establishment and conduct of associations and organizations, including mutual aid organizations, recreational and leisure organizations, cultural and religious associations and not-for-profit organizations."
+      },
+      {
+        "code": "e5558",
+        "title": "e5558 Associations and organizational services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5559",
+        "title": "e5559 Associations and organizational services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e555",
+    "title": "e555 Associations and organizational services, systems and policies",
+    "description": "Services, systems and policies relating to groups of people who have joined together in the pursuit of common, noncommercial interests, often with an associated membership structure."
+  },
+  {
+    "children": [
+      {
+        "code": "e5600",
+        "title": "e5600 Media services",
+        "description": "Services and programmes aimed at providing mass communication, such as radio, television, closed captioning services, press reporting services, newspapers, Braille services and computer-based mass communication (world wide web, internet), including those who provide these services."
+      },
+      {
+        "code": "e5601",
+        "title": "e5601 Media systems",
+        "description": "Administrative control and monitoring mechanisms that govern the provision of news and information to the general public, such as standards that govern the content, distribution, dissemination, access to and methods of communicating via radio, television, press reporting services, newspapers and computer-based mass communication (world wide web, internet)."
+      },
+      {
+        "code": "e5602",
+        "title": "e5602 Media policies",
+        "description": "Legislation, regulations and standards that govern the provision of news and information to the general public, such as policies that govern the content, distribution, dissemination, access to and methods of communicating via radio, television, press reporting services, newspapers and computer-based mass communication (world wide web, internet)."
+      },
+      {
+        "code": "e5608",
+        "title": "e5608 Media services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5609",
+        "title": "e5609 Media services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e560",
+    "title": "e560 Media services, systems and policies",
+    "description": "Services, systems and policies for the provision of mass communication through radio, television, newspapers and internet."
+  },
+  {
+    "children": [
+      {
+        "code": "e5650",
+        "title": "e5650 Economic services",
+        "description": "Services and programmes aimed at the overall production, distribution, consumption and use of goods and services, such as the private commercial sector (e.g. businesses, corporations, private for-profit ventures), the public sector (e.g. public, commercial services such as cooperatives and corporations), financial organizations (e.g. banks and insurance services), including those who provide these services."
+      },
+      {
+        "code": "e5651",
+        "title": "e5651 Economic systems",
+        "description": "Administrative control and monitoring mechanisms that govern the production, distribution, consumption and use of goods and services, such as systems for implementing and monitoring economic policies."
+      },
+      {
+        "code": "e5652",
+        "title": "e5652 Economic policies",
+        "description": "Legislation, regulations and standards that govern the production, distribution, consumption and use of goods and services, such as economic doctrines adopted and implemented by governments."
+      },
+      {
+        "code": "e5658",
+        "title": "e5658 Economic services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5659",
+        "title": "e5659 Economic services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e565",
+    "title": "e565 Economic services, systems and policies",
+    "description": "Services, systems and policies related to the overall system of production, distribution, consumption and use of goods and services."
+  },
+  {
+    "children": [
+      {
+        "code": "e5700",
+        "title": "e5700 Social security services",
+        "description": "Services and programmes aimed at providing income support to people who, because of age, poverty, unemployment, health condition or disability, require public assistance that is funded either by general tax revenues or contributory schemes, such as services for determining eligibility, delivering or distributing assistance payments for the following types of programmes: social assistance programmes (e.g. non-contributory welfare, poverty or other needs-based compensation), social insurance programmes (e.g. contributory accident or unemployment insurance), and disability and related pension schemes (e.g. income replacement), including those who provide these services."
+      },
+      {
+        "code": "e5701",
+        "title": "e5701 Social security systems",
+        "description": "Administrative control and monitoring mechanisms that govern the programmes and schemes that provide income support to people who, because of age, poverty, unemployment, health condition or disability, require public assistance, such as systems for the implementation of rules and regulations governing the eligibility for social assistance, welfare, unemployment insurance payments, pensions and disability benefits."
+      },
+      {
+        "code": "e5702",
+        "title": "e5702 Social security policies",
+        "description": "Legislation, regulations and standards that govern the programmes and schemes that provide income support to people who, because of age, poverty, unemployment, health condition or disability, require public assistance, such as legislation and regulations governing the eligibility for social assistance, welfare, unemployment insurance payments, disability and related pensions and disability benefits."
+      },
+      {
+        "code": "e5708",
+        "title": "e5708 Social security services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5709",
+        "title": "e5709 Social security services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e570",
+    "title": "e570 Social security services, systems and policies",
+    "description": "Services, systems and policies aimed at providing income support to people who, because of age, poverty, unemployment, health condition or disability, require public assistance that is funded either by general tax revenues or contributory schemes."
+  },
+  {
+    "children": [
+      {
+        "code": "e5750",
+        "title": "e5750 General social support services",
+        "description": "Services and programmes aimed at providing social support to people who, because of age, poverty, unemployment, health condition or disability, require public assistance in the areas of shopping, housework, transport, self-care and care of others, in order to function more fully in society."
+      },
+      {
+        "code": "e5751",
+        "title": "e5751 General social support systems",
+        "description": "Administrative control and monitoring mechanisms that govern the programmes and schemes that provide social support to people who, because of age, poverty, unemployment, health condition or disability, require such support, including systems for the implementation of rules and regulations governing eligibility for social support services and the provision of these services."
+      },
+      {
+        "code": "e5752",
+        "title": "e5752 General social support policies",
+        "description": "Legislation, regulations and standards that govern the programme and schemes that provide social support to people who, because of age, poverty, unemployment, health condition or disability, require such support, including legislation and regulations governing eligibility for social support."
+      },
+      {
+        "code": "e5758",
+        "title": "e5758 General social support services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5759",
+        "title": "e5759 General social support services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e575",
+    "title": "e575 General social support services, systems and policies",
+    "description": "Services, systems and policies aimed at providing support to those requiring assistance in areas such as shopping, housework, transport, self-care and care of others, in order to function more fully in society."
+  },
+  {
+    "children": [
+      {
+        "code": "e5800",
+        "title": "e5800 Health services",
+        "description": "Services and programmes at a local, community, regional, state or national level, aimed at delivering interventions to individuals for their physical, psychological and social well-being, such as health promotion and disease prevention services, primary care services, acute care, rehabilitation and long-term care services; services that are publicly or privately funded, delivered on a short-term, long-term, periodic or one-time basis, in a variety of service settings such as community, home-based, school and work settings, general hospitals, speciality hospitals, clinics, and residential and non-residential care facilities, including those who provide these services."
+      },
+      {
+        "code": "e5801",
+        "title": "e5801 Health systems",
+        "description": "Administrative control and monitoring mechanisms that govern the range of services provided to individuals for their physical, psychological and social well-being, in a variety of settings including community, home-based, school and work settings, general hospitals, speciality hospitals, clinics, and residential and non-residential care facilities, such as systems for implementing regulations and standards that determine eligibility for services, provision of devices, assistive technology or other adapted equipment, and legislation such as health acts that govern features of a health system such as accessibility, universality, portability, public funding and comprehensiveness."
+      },
+      {
+        "code": "e5802",
+        "title": "e5802 Health policies",
+        "description": "Legislation, regulations and standards that govern the range of services provided to individuals for their physical, psychological and social well-being, in a variety of settings including community, home-based, school and work settings, general hospitals, speciality hospitals, clinics, and residential and non-residential care facilities, such as policies and standards that determine eligibility for services, provision of devices, assistive technology or other adapted equipment, and legislation such as health acts that govern features of a health system such as accessibility, universality, portability, public funding and comprehensiveness."
+      },
+      {
+        "code": "e5808",
+        "title": "e5808 Health services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5809",
+        "title": "e5809 Health services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e580",
+    "title": "e580 Health services, systems and policies",
+    "description": "Services, systems and policies for preventing and treating health problems, providing medical rehabilitation and promoting a healthy lifestyle."
+  },
+  {
+    "children": [
+      {
+        "code": "e5850",
+        "title": "e5850 Education and training services",
+        "description": "Services and programmes concerned with education and the acquisition, maintenance and improvement of knowledge, expertise and vocational or artistic skills, such as those provided for different levels of education (e.g. preschool, primary school, secondary school, post-secondary institutions, professional programmes, training and skills programmes, apprenticeships and continuing education), including those who provide these services."
+      },
+      {
+        "code": "e5851",
+        "title": "e5851 Education and training systems",
+        "description": "Administrative control and monitoring mechanisms that govern the delivery of education programmes, such as systems for the implementation of policies and standards that determine eligibility for public or private education and special needs-based programmes; local, regional or national boards of education or other authoritative bodies that govern features of the education systems, including curricula, size of classes, numbers of schools in a region, fees and subsidies, special meal programmes and after-school care services."
+      },
+      {
+        "code": "e5852",
+        "title": "e5852 Education and training policies",
+        "description": "Legislation, regulations and standards that govern the delivery of education programme, such as policies and standards that determine eligibility for public or private education and special needs-based programmes, and dictate the structure of local, regional or national boards of education or other authoritative bodies that govern features of the education system, including size of classes, numbers of schools in a region, fees and subsidies, special meal programmes and after-school care services."
+      },
+      {
+        "code": "e5858",
+        "title": "e5858 Education and training services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5859",
+        "title": "e5859 Education and training services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e585",
+    "title": "e585 Education and training services, systems and policies",
+    "description": "Services, systems and policies for the acquisition, maintenance and improvement of knowledge, expertise and vocational or artistic skills. See UNESCO\u0027s International Standard Classification of Education (ISCED-1997)."
+  },
+  {
+    "children": [
+      {
+        "code": "e5900",
+        "title": "e5900 Labour and employment services",
+        "description": "Services and programmes provided by local, regional or national governments, or private organizations to find suitable work for persons who are unemployed or looking for different work, or to support individuals already employed, such as services of employment search and preparation, reemployment, job placement, outplacement, vocational follow-up, occupational health and safety services, and work environment services (e.g. ergonomics, human resources and personnel management services, labour relations services, professional association services), including those who provide these services."
+      },
+      {
+        "code": "e5901",
+        "title": "e5901 Labour and employment systems",
+        "description": "Administrative control and monitoring mechanisms that govern the distribution of occupations and other forms of remunerative work in the economy, such as systems for implementing policies and standards for employment creation, employment security, designated and competitive employment, labour standards and law, and trade unions."
+      },
+      {
+        "code": "e5902",
+        "title": "e5902 Labour and employment policies",
+        "description": "Legislation, regulations and standards that govern the distribution of occupations and other forms of remunerative work in the economy, such as standards and policies for employment creation, employment security, designated and competitive employment, labour standards and law, and trade unions."
+      },
+      {
+        "code": "e5908",
+        "title": "e5908 Labour and employment services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5909",
+        "title": "e5909 Labour and employment services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e590",
+    "title": "e590 Labour and employment services, systems and policies",
+    "description": "Services, systems and policies related to finding suitable work for persons who are unemployed or looking for different work, or to support individuals already employed who are seeking promotion."
+  },
+  {
+    "children": [
+      {
+        "code": "e5950",
+        "title": "e5950 Political services",
+        "description": "Services and structures such as local, regional and national governments, international organizations and the people who are elected or nominated to positions within these structures, such as the United Nations, European Union, governments, regional authorities, local village authorities, traditional leaders."
+      },
+      {
+        "code": "e5951",
+        "title": "e5951 Political systems",
+        "description": "Structures and related operations that organise political and economic power in a society, such as executive and legislative branches of government, and the constitutional or other legal sources from which they derive their authority, such as political organizational doctrine, constitutions, agencies of executive and legislative branches of government, the military."
+      },
+      {
+        "code": "e5952",
+        "title": "e5952 Political policy",
+        "description": "Laws and policies formulated and enforced through political systems that govern the operation of the political system, such as policies governing election campaigns, registration of political parties, voting, and membership in international political organizations, including treaties, constitutional and other law governing legislation and regulation."
+      },
+      {
+        "code": "e5958",
+        "title": "e5958 Political services, systems and policies, other specified",
+        "description": ""
+      },
+      {
+        "code": "e5959",
+        "title": "e5959 Political services, systems and policies, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "e595",
+    "title": "e595 Political services, systems and policies",
+    "description": "Services, systems and policies related to voting, elections and governance of countries, regions and communities, as well as international political organizations."
+  },
+  {
+    "code": "e598",
+    "title": "e598 Services, systems and policies, other specified",
+    "description": ""
+  },
+  {
+    "code": "e599",
+    "title": "e599 Services, systems and policies, unspecified",
+    "description": ""
+  }
+]

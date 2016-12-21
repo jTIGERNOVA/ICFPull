@@ -1,0 +1,1602 @@
+[
+  {
+    "children": [
+      {
+        "code": "s1100",
+        "title": "s1100 Structure of cortical lobes",
+        "description": "",
+        "children": [
+          {
+            "code": "s11000",
+            "title": "s11000 Frontal lobe",
+            "description": ""
+          },
+          {
+            "code": "s11001",
+            "title": "s11001 Temporal lobe",
+            "description": ""
+          },
+          {
+            "code": "s11002",
+            "title": "s11002 Parietal lobe",
+            "description": ""
+          },
+          {
+            "code": "s11003",
+            "title": "s11003 Occipital lobe",
+            "description": ""
+          },
+          {
+            "code": "s11008",
+            "title": "s11008 Structure of cortical lobes, other specified",
+            "description": ""
+          },
+          {
+            "code": "s11009",
+            "title": "s11009 Structure of cortical lobes, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s1101",
+        "title": "s1101 Structure of midbrain",
+        "description": ""
+      },
+      {
+        "code": "s1102",
+        "title": "s1102 Structure of diencephalon",
+        "description": ""
+      },
+      {
+        "code": "s1103",
+        "title": "s1103 Basal ganglia and related structures",
+        "description": ""
+      },
+      {
+        "code": "s1104",
+        "title": "s1104 Structure of cerebellum",
+        "description": ""
+      },
+      {
+        "code": "s1105",
+        "title": "s1105 Structure of brain stem",
+        "description": "",
+        "children": [
+          {
+            "code": "s11050",
+            "title": "s11050 Medulla oblongata",
+            "description": ""
+          },
+          {
+            "code": "s11051",
+            "title": "s11051 Pons",
+            "description": ""
+          },
+          {
+            "code": "s11058",
+            "title": "s11058 Structure of brain stem, other specified",
+            "description": ""
+          },
+          {
+            "code": "s11059",
+            "title": "s11059 Structure of brain stem, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s1106",
+        "title": "s1106 Structure of cranial nerves",
+        "description": ""
+      },
+      {
+        "code": "s1108",
+        "title": "s1108 Structure of brain, other specified",
+        "description": ""
+      },
+      {
+        "code": "s1109",
+        "title": "s1109 Structure of brain, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s110",
+    "title": "s110 Structure of brain",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s1200",
+        "title": "s1200 Structure of spinal cord",
+        "description": "",
+        "children": [
+          {
+            "code": "s12000",
+            "title": "s12000 Cervical spinal cord",
+            "description": ""
+          },
+          {
+            "code": "s12001",
+            "title": "s12001 Thoracic spinal cord",
+            "description": ""
+          },
+          {
+            "code": "s12002",
+            "title": "s12002 Lumbosacral spinal cord",
+            "description": ""
+          },
+          {
+            "code": "s12003",
+            "title": "s12003 Cauda equina",
+            "description": ""
+          },
+          {
+            "code": "s12008",
+            "title": "s12008 Structure of spinal cord, other specified",
+            "description": ""
+          },
+          {
+            "code": "s12009",
+            "title": "s12009 Structure of spinal cord, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s1201",
+        "title": "s1201 Spinal nerves",
+        "description": ""
+      },
+      {
+        "code": "s1208",
+        "title": "s1208 Spinal cord and related structures, other specified",
+        "description": ""
+      },
+      {
+        "code": "s1209",
+        "title": "s1209 Spinal cord and related structures, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s120",
+    "title": "s120 Spinal cord and related structures",
+    "description": ""
+  },
+  {
+    "code": "s130",
+    "title": "s130 Structure of meninges",
+    "description": ""
+  },
+  {
+    "code": "s140",
+    "title": "s140 Structure of sympathetic nervous system",
+    "description": ""
+  },
+  {
+    "code": "s150",
+    "title": "s150 Structure of parasympathetic nervous system",
+    "description": ""
+  },
+  {
+    "code": "s198",
+    "title": "s198 Structure of the nervous system, other specified",
+    "description": ""
+  },
+  {
+    "code": "s199",
+    "title": "s199 Structure of the nervous system, unspecified",
+    "description": ""
+  },
+  {
+    "code": "s210",
+    "title": "s210 Structure of eye socket",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s2200",
+        "title": "s2200 Conjunctiva, sclera, choroid",
+        "description": ""
+      },
+      {
+        "code": "s2201",
+        "title": "s2201 Cornea",
+        "description": ""
+      },
+      {
+        "code": "s2202",
+        "title": "s2202 Iris",
+        "description": ""
+      },
+      {
+        "code": "s2203",
+        "title": "s2203 Retina",
+        "description": ""
+      },
+      {
+        "code": "s2204",
+        "title": "s2204 Lens of eyeball",
+        "description": ""
+      },
+      {
+        "code": "s2205",
+        "title": "s2205 Vitreous body",
+        "description": ""
+      },
+      {
+        "code": "s2208",
+        "title": "s2208 Structure of eyeball, other specified",
+        "description": ""
+      },
+      {
+        "code": "s2209",
+        "title": "s2209 Structure of eyeball, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s220",
+    "title": "s220 Structure of eyeball",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s2300",
+        "title": "s2300 Lachrymal gland and related structures",
+        "description": ""
+      },
+      {
+        "code": "s2301",
+        "title": "s2301 Eyelid",
+        "description": ""
+      },
+      {
+        "code": "s2302",
+        "title": "s2302 Eyebrow",
+        "description": ""
+      },
+      {
+        "code": "s2303",
+        "title": "s2303 External ocular muscles",
+        "description": ""
+      },
+      {
+        "code": "s2308",
+        "title": "s2308 Structures around eye, other specified",
+        "description": ""
+      },
+      {
+        "code": "s2309",
+        "title": "s2309 Structures around eye, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s230",
+    "title": "s230 Structures around eye",
+    "description": ""
+  },
+  {
+    "code": "s240",
+    "title": "s240 Structure of external ear",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s2500",
+        "title": "s2500 Tympanic membrane",
+        "description": ""
+      },
+      {
+        "code": "s2501",
+        "title": "s2501 Eustachian canal",
+        "description": ""
+      },
+      {
+        "code": "s2502",
+        "title": "s2502 Ossicles",
+        "description": ""
+      },
+      {
+        "code": "s2508",
+        "title": "s2508 Structure of middle ear, other specified",
+        "description": ""
+      },
+      {
+        "code": "s2509",
+        "title": "s2509 Structure of middle ear, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s250",
+    "title": "s250 Structure of middle ear",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s2600",
+        "title": "s2600 Cochlea",
+        "description": ""
+      },
+      {
+        "code": "s2601",
+        "title": "s2601 Vestibular labyrinth",
+        "description": ""
+      },
+      {
+        "code": "s2602",
+        "title": "s2602 Semicircular canals",
+        "description": ""
+      },
+      {
+        "code": "s2603",
+        "title": "s2603 Internal auditory meatus",
+        "description": ""
+      },
+      {
+        "code": "s2608",
+        "title": "s2608 Structure of inner ear, other specified",
+        "description": ""
+      },
+      {
+        "code": "s2609",
+        "title": "s2609 Structure of inner ear, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s260",
+    "title": "s260 Structure of inner ear",
+    "description": ""
+  },
+  {
+    "code": "s298",
+    "title": "s298 Eye, ear and related structures, other specified",
+    "description": ""
+  },
+  {
+    "code": "s299",
+    "title": "s299 Eye, ear and related structures, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s3100",
+        "title": "s3100 External nose",
+        "description": ""
+      },
+      {
+        "code": "s3101",
+        "title": "s3101 Nasal septum",
+        "description": ""
+      },
+      {
+        "code": "s3102",
+        "title": "s3102 Nasal fossae",
+        "description": ""
+      },
+      {
+        "code": "s3108",
+        "title": "s3108 Structure of nose, other specified",
+        "description": ""
+      },
+      {
+        "code": "s3109",
+        "title": "s3109 Structure of nose, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s310",
+    "title": "s310 Structure of nose",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s3200",
+        "title": "s3200 Teeth",
+        "description": ""
+      },
+      {
+        "code": "s3201",
+        "title": "s3201 Gums",
+        "description": ""
+      },
+      {
+        "code": "s3202",
+        "title": "s3202 Structure of palate",
+        "description": "",
+        "children": [
+          {
+            "code": "s32020",
+            "title": "s32020 Hard palate",
+            "description": ""
+          },
+          {
+            "code": "s32021",
+            "title": "s32021 Soft palate",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s3203",
+        "title": "s3203 Tongue",
+        "description": ""
+      },
+      {
+        "code": "s3204",
+        "title": "s3204 Structure of lips",
+        "description": "",
+        "children": [
+          {
+            "code": "s32040",
+            "title": "s32040 Upper lip",
+            "description": ""
+          },
+          {
+            "code": "s32041",
+            "title": "s32041 Lower lip",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s3208",
+        "title": "s3208 Structure of mouth, other specified",
+        "description": ""
+      },
+      {
+        "code": "s3209",
+        "title": "s3209 Structure of mouth, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s320",
+    "title": "s320 Structure of mouth",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s3300",
+        "title": "s3300 Nasal pharynx",
+        "description": ""
+      },
+      {
+        "code": "s3301",
+        "title": "s3301 Oral pharynx",
+        "description": ""
+      },
+      {
+        "code": "s3308",
+        "title": "s3308 Structure of pharynx, other specified",
+        "description": ""
+      },
+      {
+        "code": "s3309",
+        "title": "s3309 Structure of pharynx, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s330",
+    "title": "s330 Structure of pharynx",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s3400",
+        "title": "s3400 Vocal folds",
+        "description": ""
+      },
+      {
+        "code": "s3408",
+        "title": "s3408 Structure of larynx, other specified",
+        "description": ""
+      },
+      {
+        "code": "s3409",
+        "title": "s3409 Structure of larynx, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s340",
+    "title": "s340 Structure of larynx",
+    "description": ""
+  },
+  {
+    "code": "s398",
+    "title": "s398 Structures involved in voice and speech, other specified",
+    "description": ""
+  },
+  {
+    "code": "s399",
+    "title": "s399 Structures involved in voice and speech, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s4100",
+        "title": "s4100 Heart",
+        "description": "",
+        "children": [
+          {
+            "code": "s41000",
+            "title": "s41000 Atria",
+            "description": ""
+          },
+          {
+            "code": "s41001",
+            "title": "s41001 Ventricles",
+            "description": ""
+          },
+          {
+            "code": "s41008",
+            "title": "s41008 Structure of heart, other specified",
+            "description": ""
+          },
+          {
+            "code": "s41009",
+            "title": "s41009 Structure of heart, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s4101",
+        "title": "s4101 Arteries",
+        "description": ""
+      },
+      {
+        "code": "s4102",
+        "title": "s4102 Veins",
+        "description": ""
+      },
+      {
+        "code": "s4103",
+        "title": "s4103 Capillaries",
+        "description": ""
+      },
+      {
+        "code": "s4108",
+        "title": "s4108 Structure of cardiovascular system, other specified",
+        "description": ""
+      },
+      {
+        "code": "s4109",
+        "title": "s4109 Structure of cardiovascular system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s410",
+    "title": "s410 Structure of cardiovascular system",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s4200",
+        "title": "s4200 Lymphatic vessels",
+        "description": ""
+      },
+      {
+        "code": "s4201",
+        "title": "s4201 Lymphatic nodes",
+        "description": ""
+      },
+      {
+        "code": "s4202",
+        "title": "s4202 Thymus",
+        "description": ""
+      },
+      {
+        "code": "s4203",
+        "title": "s4203 Spleen",
+        "description": ""
+      },
+      {
+        "code": "s4204",
+        "title": "s4204 Bone marrow",
+        "description": ""
+      },
+      {
+        "code": "s4208",
+        "title": "s4208 Structure of immune system, other specified",
+        "description": ""
+      },
+      {
+        "code": "s4209",
+        "title": "s4209 Structure of immune system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s420",
+    "title": "s420 Structure of immune system",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s4300",
+        "title": "s4300 Trachea",
+        "description": ""
+      },
+      {
+        "code": "s4301",
+        "title": "s4301 Lungs",
+        "description": "",
+        "children": [
+          {
+            "code": "s43010",
+            "title": "s43010 Bronchial tree",
+            "description": ""
+          },
+          {
+            "code": "s43011",
+            "title": "s43011 Alveoli",
+            "description": ""
+          },
+          {
+            "code": "s43018",
+            "title": "s43018 Structure of lungs, other specified",
+            "description": ""
+          },
+          {
+            "code": "s43019",
+            "title": "s43019 Structure of lungs, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s4302",
+        "title": "s4302 Thoracic cage",
+        "description": ""
+      },
+      {
+        "code": "s4303",
+        "title": "s4303 Muscles of respiration",
+        "description": "",
+        "children": [
+          {
+            "code": "s43030",
+            "title": "s43030 Intercostal muscles",
+            "description": ""
+          },
+          {
+            "code": "s43031",
+            "title": "s43031 Diaphragm",
+            "description": ""
+          },
+          {
+            "code": "s43038",
+            "title": "s43038 Muscles of respiration, other specified",
+            "description": ""
+          },
+          {
+            "code": "s43039",
+            "title": "s43039 Muscles of respiration, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s4308",
+        "title": "s4308 Structure of respiratory system, other specified",
+        "description": ""
+      },
+      {
+        "code": "s4309",
+        "title": "s4309 Structure of respiratory system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s430",
+    "title": "s430 Structure of respiratory system",
+    "description": ""
+  },
+  {
+    "code": "s498",
+    "title": "s498 Structures of the cardiovascular, immunological and respiratory systems, other specified",
+    "description": ""
+  },
+  {
+    "code": "s499",
+    "title": "s499 Structures of the cardiovascular, immunological and respiratory systems, unspecified",
+    "description": ""
+  },
+  {
+    "code": "s510",
+    "title": "s510 Structure of salivary glands",
+    "description": ""
+  },
+  {
+    "code": "s520",
+    "title": "s520 Structure of oesophagus",
+    "description": ""
+  },
+  {
+    "code": "s530",
+    "title": "s530 Structure of stomach",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s5400",
+        "title": "s5400 Small intestine",
+        "description": ""
+      },
+      {
+        "code": "s5401",
+        "title": "s5401 Large intestine",
+        "description": ""
+      },
+      {
+        "code": "s5408",
+        "title": "s5408 Structure of intestine, other specified",
+        "description": ""
+      },
+      {
+        "code": "s5409",
+        "title": "s5409 Structure of intestine, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s540",
+    "title": "s540 Structure of intestine",
+    "description": ""
+  },
+  {
+    "code": "s550",
+    "title": "s550 Structure of pancreas",
+    "description": ""
+  },
+  {
+    "code": "s560",
+    "title": "s560 Structure of liver",
+    "description": ""
+  },
+  {
+    "code": "s570",
+    "title": "s570 Structure of gall bladder and ducts",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s5800",
+        "title": "s5800 Pituitary gland",
+        "description": ""
+      },
+      {
+        "code": "s5801",
+        "title": "s5801 Thyroid gland",
+        "description": ""
+      },
+      {
+        "code": "s5802",
+        "title": "s5802 Parathyroid gland",
+        "description": ""
+      },
+      {
+        "code": "s5803",
+        "title": "s5803 Adrenal gland",
+        "description": ""
+      },
+      {
+        "code": "s5808",
+        "title": "s5808 Structure of endocrine glands, other specified",
+        "description": ""
+      },
+      {
+        "code": "s5809",
+        "title": "s5809 Structure of endocrine glands, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s580",
+    "title": "s580 Structure of endocrine glands",
+    "description": ""
+  },
+  {
+    "code": "s598",
+    "title": "s598 Structures related to the digestive, metabolic and endocrine systems, other specified",
+    "description": ""
+  },
+  {
+    "code": "s599",
+    "title": "s599 Structures related to the digestive, metabolic and endocrine systems, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s6100",
+        "title": "s6100 Kidney",
+        "description": ""
+      },
+      {
+        "code": "s6101",
+        "title": "s6101 Ureters",
+        "description": ""
+      },
+      {
+        "code": "s6102",
+        "title": "s6102 Urinary bladder",
+        "description": ""
+      },
+      {
+        "code": "s6103",
+        "title": "s6103 Urethra",
+        "description": ""
+      },
+      {
+        "code": "s6108",
+        "title": "s6108 Structure of urinary system, other specified",
+        "description": ""
+      },
+      {
+        "code": "s6109",
+        "title": "s6109 Structure of urinary system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s610",
+    "title": "s610 Structure of urinary system",
+    "description": ""
+  },
+  {
+    "code": "s620",
+    "title": "s620 Structure of pelvic floor",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s6300",
+        "title": "s6300 Ovaries",
+        "description": ""
+      },
+      {
+        "code": "s6301",
+        "title": "s6301 Structure of uterus",
+        "description": "",
+        "children": [
+          {
+            "code": "s63010",
+            "title": "s63010 Body of uterus",
+            "description": ""
+          },
+          {
+            "code": "s63011",
+            "title": "s63011 Cervix",
+            "description": ""
+          },
+          {
+            "code": "s63012",
+            "title": "s63012 Fallopian tubes",
+            "description": ""
+          },
+          {
+            "code": "s63018",
+            "title": "s63018 Structure of uterus, other specified",
+            "description": ""
+          },
+          {
+            "code": "s63019",
+            "title": "s63019 Structure of uterus, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s6302",
+        "title": "s6302 Breast and nipple",
+        "description": ""
+      },
+      {
+        "code": "s6303",
+        "title": "s6303 Structure of vagina and external genitalia",
+        "description": "",
+        "children": [
+          {
+            "code": "s63030",
+            "title": "s63030 Clitoris",
+            "description": ""
+          },
+          {
+            "code": "s63031",
+            "title": "s63031 Labia majora",
+            "description": ""
+          },
+          {
+            "code": "s63032",
+            "title": "s63032 Labia minora",
+            "description": ""
+          },
+          {
+            "code": "s63033",
+            "title": "s63033 Vaginal canal",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s6304",
+        "title": "s6304 Testes",
+        "description": ""
+      },
+      {
+        "code": "s6305",
+        "title": "s6305 Structure of the penis",
+        "description": "",
+        "children": [
+          {
+            "code": "s63050",
+            "title": "s63050 Glans penis",
+            "description": ""
+          },
+          {
+            "code": "s63051",
+            "title": "s63051 Shaft of penis",
+            "description": ""
+          },
+          {
+            "code": "s63058",
+            "title": "s63058 Structure of penis, other specified",
+            "description": ""
+          },
+          {
+            "code": "s63059",
+            "title": "s63059 Structure of penis, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s6306",
+        "title": "s6306 Prostate",
+        "description": ""
+      },
+      {
+        "code": "s6308",
+        "title": "s6308 Structures of reproductive system, other specified",
+        "description": ""
+      },
+      {
+        "code": "s6309",
+        "title": "s6309 Structures of reproductive system, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s630",
+    "title": "s630 Structure of reproductive system",
+    "description": ""
+  },
+  {
+    "code": "s698",
+    "title": "s698 Structures related to the genitourinary and reproductive systems, other specified",
+    "description": ""
+  },
+  {
+    "code": "s699",
+    "title": "s699 Structures related to the genitourinary and reproductive systems, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7100",
+        "title": "s7100 Bones of cranium",
+        "description": ""
+      },
+      {
+        "code": "s7101",
+        "title": "s7101 Bones of face",
+        "description": ""
+      },
+      {
+        "code": "s7102",
+        "title": "s7102 Bones of neck region",
+        "description": ""
+      },
+      {
+        "code": "s7103",
+        "title": "s7103 Joints of head and neck region",
+        "description": ""
+      },
+      {
+        "code": "s7104",
+        "title": "s7104 Muscles of head and neck region",
+        "description": ""
+      },
+      {
+        "code": "s7105",
+        "title": "s7105 Ligaments and fasciae of head and neck region",
+        "description": ""
+      },
+      {
+        "code": "s7108",
+        "title": "s7108 Structure of head and neck region, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7109",
+        "title": "s7109 Structure of head and neck region, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s710",
+    "title": "s710 Structure of head and neck region",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7200",
+        "title": "s7200 Bones of shoulder region",
+        "description": ""
+      },
+      {
+        "code": "s7201",
+        "title": "s7201 Joints of shoulder region",
+        "description": ""
+      },
+      {
+        "code": "s7202",
+        "title": "s7202 Muscles of shoulder region",
+        "description": ""
+      },
+      {
+        "code": "s7203",
+        "title": "s7203 Ligaments and fasciae of shoulder region",
+        "description": ""
+      },
+      {
+        "code": "s7208",
+        "title": "s7208 Structure of shoulder region, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7209",
+        "title": "s7209 Structure of shoulder region, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s720",
+    "title": "s720 Structure of shoulder region",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7300",
+        "title": "s7300 Structure of upper arm",
+        "description": "",
+        "children": [
+          {
+            "code": "s73000",
+            "title": "s73000 Bones of upper arm",
+            "description": ""
+          },
+          {
+            "code": "s73001",
+            "title": "s73001 Elbow joint",
+            "description": ""
+          },
+          {
+            "code": "s73002",
+            "title": "s73002 Muscles of upper arm",
+            "description": ""
+          },
+          {
+            "code": "s73003",
+            "title": "s73003 Ligaments and fasciae of upper arm",
+            "description": ""
+          },
+          {
+            "code": "s73008",
+            "title": "s73008 Structure of upper arm, other specified",
+            "description": ""
+          },
+          {
+            "code": "s73009",
+            "title": "s73009 Structure of upper arm, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7301",
+        "title": "s7301 Structure of forearm",
+        "description": "",
+        "children": [
+          {
+            "code": "s73010",
+            "title": "s73010 Bones of forearm",
+            "description": ""
+          },
+          {
+            "code": "s73011",
+            "title": "s73011 Wrist joint",
+            "description": ""
+          },
+          {
+            "code": "s73012",
+            "title": "s73012 Muscles of forearm",
+            "description": ""
+          },
+          {
+            "code": "s73013",
+            "title": "s73013 Ligaments and fasciae of forearm",
+            "description": ""
+          },
+          {
+            "code": "s73018",
+            "title": "s73018 Structure of forearm, other specified",
+            "description": ""
+          },
+          {
+            "code": "s73019",
+            "title": "s73019 Structure of forearm, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7302",
+        "title": "s7302 Structure of hand",
+        "description": "",
+        "children": [
+          {
+            "code": "s73020",
+            "title": "s73020 Bones of hand",
+            "description": ""
+          },
+          {
+            "code": "s73021",
+            "title": "s73021 Joints of hand and fingers",
+            "description": ""
+          },
+          {
+            "code": "s73022",
+            "title": "s73022 Muscles of hand",
+            "description": ""
+          },
+          {
+            "code": "s73023",
+            "title": "s73023 Ligaments and fasciae of hand",
+            "description": ""
+          },
+          {
+            "code": "s73028",
+            "title": "s73028 Structure of hand, other specified",
+            "description": ""
+          },
+          {
+            "code": "s73029",
+            "title": "s73029 Structure of hand, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7308",
+        "title": "s7308 Structure of upper extremity, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7309",
+        "title": "s7309 Structure of upper extremity, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s730",
+    "title": "s730 Structure of upper extremity",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7400",
+        "title": "s7400 Bones of pelvic region",
+        "description": ""
+      },
+      {
+        "code": "s7401",
+        "title": "s7401 Joints of pelvic region",
+        "description": ""
+      },
+      {
+        "code": "s7402",
+        "title": "s7402 Muscles of pelvic region",
+        "description": ""
+      },
+      {
+        "code": "s7403",
+        "title": "s7403 Ligaments and fasciae of pelvic region",
+        "description": ""
+      },
+      {
+        "code": "s7408",
+        "title": "s7408 Structure of pelvic region, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7409",
+        "title": "s7409 Structure of pelvic region, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s740",
+    "title": "s740 Structure of pelvic region",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7500",
+        "title": "s7500 Structure of thigh",
+        "description": "",
+        "children": [
+          {
+            "code": "s75000",
+            "title": "s75000 Bones of thigh",
+            "description": ""
+          },
+          {
+            "code": "s75001",
+            "title": "s75001 Hip joint",
+            "description": ""
+          },
+          {
+            "code": "s75002",
+            "title": "s75002 Muscles of thigh",
+            "description": ""
+          },
+          {
+            "code": "s75003",
+            "title": "s75003 Ligaments and fasciae of thigh",
+            "description": ""
+          },
+          {
+            "code": "s75008",
+            "title": "s75008 Structure of thigh, other specified",
+            "description": ""
+          },
+          {
+            "code": "s75009",
+            "title": "s75009 Structure of thigh, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7501",
+        "title": "s7501 Structure of lower leg",
+        "description": "",
+        "children": [
+          {
+            "code": "s75010",
+            "title": "s75010 Bones of lower leg",
+            "description": ""
+          },
+          {
+            "code": "s75011",
+            "title": "s75011 Knee joint",
+            "description": ""
+          },
+          {
+            "code": "s75012",
+            "title": "s75012 Muscles of lower leg",
+            "description": ""
+          },
+          {
+            "code": "s75013",
+            "title": "s75013 Ligaments and fasciae of lower leg",
+            "description": ""
+          },
+          {
+            "code": "s75018",
+            "title": "s75018 Structure of lower leg, other specified",
+            "description": ""
+          },
+          {
+            "code": "s75019",
+            "title": "s75019 Structure of lower leg, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7502",
+        "title": "s7502 Structure of ankle and foot",
+        "description": "",
+        "children": [
+          {
+            "code": "s75020",
+            "title": "s75020 Bones of ankle and foot",
+            "description": ""
+          },
+          {
+            "code": "s75021",
+            "title": "s75021 Ankle joint and joints of foot and toes",
+            "description": ""
+          },
+          {
+            "code": "s75022",
+            "title": "s75022 Muscles of ankle and foot",
+            "description": ""
+          },
+          {
+            "code": "s75023",
+            "title": "s75023 Ligaments and fasciae of ankle and foot",
+            "description": ""
+          },
+          {
+            "code": "s75028",
+            "title": "s75028 Structure of ankle and foot, other specified",
+            "description": ""
+          },
+          {
+            "code": "s75029",
+            "title": "s75029 Structure of ankle and foot, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7508",
+        "title": "s7508 Structure of lower extremity, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7509",
+        "title": "s7509 Structure of lower extremity, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s750",
+    "title": "s750 Structure of lower extremity",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7600",
+        "title": "s7600 Structure of vertebral column",
+        "description": "",
+        "children": [
+          {
+            "code": "s76000",
+            "title": "s76000 Cervical vertebral column",
+            "description": ""
+          },
+          {
+            "code": "s76001",
+            "title": "s76001 Thoracic vertebral column",
+            "description": ""
+          },
+          {
+            "code": "s76002",
+            "title": "s76002 Lumbar vertebral column",
+            "description": ""
+          },
+          {
+            "code": "s76003",
+            "title": "s76003 Sacral vertebral column",
+            "description": ""
+          },
+          {
+            "code": "s76004",
+            "title": "s76004 Coccyx",
+            "description": ""
+          },
+          {
+            "code": "s76008",
+            "title": "s76008 Structure of vertebral column, other specified",
+            "description": ""
+          },
+          {
+            "code": "s76009",
+            "title": "s76009 Structure of vertebral column, unspecified",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "code": "s7601",
+        "title": "s7601 Muscles of trunk",
+        "description": ""
+      },
+      {
+        "code": "s7602",
+        "title": "s7602 Ligaments and fasciae of trunk",
+        "description": ""
+      },
+      {
+        "code": "s7608",
+        "title": "s7608 Structure of trunk, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7609",
+        "title": "s7609 Structure of trunk, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s760",
+    "title": "s760 Structure of trunk",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s7700",
+        "title": "s7700 Bones",
+        "description": ""
+      },
+      {
+        "code": "s7701",
+        "title": "s7701 Joints",
+        "description": ""
+      },
+      {
+        "code": "s7702",
+        "title": "s7702 Muscles",
+        "description": ""
+      },
+      {
+        "code": "s7703",
+        "title": "s7703 Extra-articular ligaments, fasciae, extramuscular aponeuroses, retinacula, septa, bursae, unspecified",
+        "description": ""
+      },
+      {
+        "code": "s7708",
+        "title": "s7708 Additional musculoskeletal structures related to movement, other specified",
+        "description": ""
+      },
+      {
+        "code": "s7709",
+        "title": "s7709 Additional musculoskeletal structures related to movement, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s770",
+    "title": "s770 Additional musculoskeletal structures related to movement",
+    "description": ""
+  },
+  {
+    "code": "s798",
+    "title": "s798 Structures related to movement, other specified",
+    "description": ""
+  },
+  {
+    "code": "s799",
+    "title": "s799 Structures related to movement, unspecified",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s8100",
+        "title": "s8100 Skin of head and neck region",
+        "description": ""
+      },
+      {
+        "code": "s8101",
+        "title": "s8101 Skin of shoulder region",
+        "description": ""
+      },
+      {
+        "code": "s8102",
+        "title": "s8102 Skin of upper extremity",
+        "description": ""
+      },
+      {
+        "code": "s8103",
+        "title": "s8103 Skin of pelvic region",
+        "description": ""
+      },
+      {
+        "code": "s8104",
+        "title": "s8104 Skin of lower extremity",
+        "description": ""
+      },
+      {
+        "code": "s8105",
+        "title": "s8105 Skin of trunk and back",
+        "description": ""
+      },
+      {
+        "code": "s8108",
+        "title": "s8108 Structure of areas of skin, other specified",
+        "description": ""
+      },
+      {
+        "code": "s8109",
+        "title": "s8109 Structure of areas of skin, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s810",
+    "title": "s810 Structure of areas of skin",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s8200",
+        "title": "s8200 Sweat glands",
+        "description": ""
+      },
+      {
+        "code": "s8201",
+        "title": "s8201 Sebaceous glands",
+        "description": ""
+      },
+      {
+        "code": "s8208",
+        "title": "s8208 Structure of skin glands, other specified",
+        "description": ""
+      },
+      {
+        "code": "s8209",
+        "title": "s8209 Structure of skin glands, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s820",
+    "title": "s820 Structure of skin glands",
+    "description": ""
+  },
+  {
+    "children": [
+      {
+        "code": "s8300",
+        "title": "s8300 Finger nails",
+        "description": ""
+      },
+      {
+        "code": "s8301",
+        "title": "s8301 Toe nails",
+        "description": ""
+      },
+      {
+        "code": "s8308",
+        "title": "s8308 Structure of nails, other specified",
+        "description": ""
+      },
+      {
+        "code": "s8309",
+        "title": "s8309 Structure of nails, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "s830",
+    "title": "s830 Structure of nails",
+    "description": ""
+  },
+  {
+    "code": "s840",
+    "title": "s840 Structure of hair",
+    "description": ""
+  },
+  {
+    "code": "s898",
+    "title": "s898 Skin and related structures, other specified",
+    "description": ""
+  },
+  {
+    "code": "s899",
+    "title": "s899 Skin and related structures, unspecified",
+    "description": ""
+  }
+]

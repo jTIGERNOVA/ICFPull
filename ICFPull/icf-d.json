@@ -1,0 +1,471 @@
+[
+  {
+    "code": "d115",
+    "title": "d115 Listening",
+    "description": "Using the sense of hearing intentionally to experience auditory stimuli, such as listening to a radio, music or a lecture."
+  },
+  {
+    "code": "d120",
+    "title": "d120 Other purposeful sensing",
+    "description": "Using the body\u0027s other basic senses intentionally to experience stimuli, such as touching and feeling textures, tasting sweets or smelling flowers."
+  },
+  {
+    "code": "d135",
+    "title": "d135 Rehearsing",
+    "description": "Repeating a sequence of events or symbols as a basic component of learning, such as counting by tens or practising the recitation of a poem."
+  },
+  {
+    "code": "d140",
+    "title": "d140 Learning to read",
+    "description": "Developing the competence to read written material (including Braille) with fluency and accuracy, such as recognizing characters and alphabets, sounding out words with correct pronunciation, and understanding words and phrases."
+  },
+  {
+    "code": "d145",
+    "title": "d145 Learning to write",
+    "description": "Developing the competence to produce symbols that represent sounds, words or phrases in order to convey meaning (including Braille writing), such as spelling effectively and using correct grammar."
+  },
+  {
+    "code": "d166",
+    "title": "d166 Reading",
+    "description": "Performing activities involved in the comprehension and interpretation of written language (e.g. books, instructions or newspapers in text or Braille), for the purpose of obtaining general knowledge or specific information."
+  },
+  {
+    "code": "d170",
+    "title": "d170 Writing",
+    "description": "Using or producing symbols or language to convey information, such as producing a written record of events or ideas or drafting a letter."
+  },
+  {
+    "code": "d172",
+    "title": "d172 Calculating",
+    "description": "Performing computations by applying mathematical principles to solve problems that are described in words and producing or displaying the results, such as computing the sum of three numbers or finding the result of dividing one number by another."
+  },
+  {
+    "children": [
+      {
+        "code": "d1750",
+        "title": "d1750 Solving simple problems",
+        "description": "Finding solutions to a simple problem involving a single issue or question, by identifying and analysing the issue, developing solutions, evaluating the potential effects of the solutions and executing a chosen solution."
+      }
+    ],
+    "code": "d175",
+    "title": "d175 Solving problems",
+    "description": "Finding solutions to questions or situations by identifying and analysing issues, developing options and solutions, evaluating potential effects of solutions, and executing a chosen solution, such as in resolving a dispute between two people."
+  },
+  {
+    "children": [
+      {
+        "code": "d2200",
+        "title": "d2200 Carrying out multiple tasks",
+        "description": "Preparing, initiating and arranging the time and space needed for several tasks, and managing and executing several tasks, together or sequentially."
+      },
+      {
+        "code": "d2201",
+        "title": "d2201 Completing multiple tasks",
+        "description": "Completing several tasks, together or sequentially."
+      },
+      {
+        "code": "d2202",
+        "title": "d2202 Undertaking multiple tasks independently",
+        "description": "Preparing, initiating and arranging the time and space for multiple tasks, and managing and executing several tasks together or sequentially, on one\u0027s own and without the assistance of others."
+      }
+    ],
+    "code": "d220",
+    "title": "d220 Undertaking multiple tasks",
+    "description": "Carrying out simple or complex and coordinated actions as components of multiple, integrated and complex tasks in sequence or simultaneously."
+  },
+  {
+    "children": [
+      {
+        "code": "d3150",
+        "title": "d3150 Communicating with - receiving - body gestures",
+        "description": "Comprehending the meaning conveyed by facial expressions, hand movements or signs, body postures, and other forms of body language."
+      },
+      {
+        "code": "d3151",
+        "title": "d3151 Communicating with - receiving - general signs and symbols",
+        "description": "Comprehending the meaning represented by public signs and symbols, such as traffic signs, warning symbols, musical or scientific notations, and icons."
+      },
+      {
+        "code": "d3152",
+        "title": "d3152 Communicating with - receiving - drawings and photographs",
+        "description": "Comprehending the meaning represented by drawings (e.g. line drawings, graphic designs, paintings, three-dimensional representations), graphs, charts and photographs, such as understanding that an upward line on a height chart indicates that a child is growing."
+      },
+      {
+        "code": "d3158",
+        "title": "d3158 Communicating with - receiving - nonverbal messages, other specified",
+        "description": ""
+      }
+    ],
+    "code": "d315",
+    "title": "d315 Communicating with - receiving - nonverbal messages",
+    "description": "Comprehending the literal and implied meanings of messages conveyed by gestures, symbols and drawings, such as realizing that a child is tired when she rubs her eyes or that a warning bell means that there is a fire."
+  },
+  {
+    "children": [
+      {
+        "code": "d3350",
+        "title": "d3350 Producing body language",
+        "description": "Conveying meaning by movements of the body, such as facial gestures (e.g. smiling, frowning, wincing), arm and hand movements, and postures (e.g. such as embracing to indicate affection)."
+      },
+      {
+        "code": "d3351",
+        "title": "d3351 Producing signs and symbols",
+        "description": "Conveying meaning by using signs and symbols (e.g. icons, Bliss board, scientific symbols) and symbolic notation systems, such as using musical notation to convey a melody."
+      },
+      {
+        "code": "d3352",
+        "title": "d3352 Producing drawings and photographs",
+        "description": "Conveying meaning by drawing, painting, sketching, and making diagrams, pictures or photographs, such as drawing a map to give someone directions to a location."
+      },
+      {
+        "code": "d3358",
+        "title": "d3358 Producing nonverbal messages, other specified",
+        "description": ""
+      }
+    ],
+    "code": "d335",
+    "title": "d335 Producing nonverbal messages",
+    "description": "Using gestures, symbols and drawings to convey messages, such as shaking one\u0027s head to indicate disagreement or drawing a picture or diagram to convey a fact or complex idea."
+  },
+  {
+    "children": [
+      {
+        "code": "d3550",
+        "title": "d3550 Discussion with one person",
+        "description": "Initiating, maintaining, shaping or terminating an argument or debate with one person."
+      },
+      {
+        "code": "d3551",
+        "title": "d3551 Discussion with many people",
+        "description": "Initiating, maintaining, shaping or terminating an argument or debate with more than one individual."
+      },
+      {
+        "code": "d3558",
+        "title": "d3558 Discussion, other specified",
+        "description": ""
+      },
+      {
+        "code": "d3559",
+        "title": "d3559 Discussion, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "d355",
+    "title": "d355 Discussion",
+    "description": "Starting, sustaining and ending an examination of a matter, with arguments for or against, or debate carried out by means of spoken, written, sign or other forms of language, with one or more people one knows or who are strangers, in formal or casual settings."
+  },
+  {
+    "children": [
+      {
+        "code": "d4150",
+        "title": "d4150 Maintaining a lying position",
+        "description": "Staying in a lying position for some time as required, such as remaining in a prone position in a bed."
+      },
+      {
+        "code": "d4151",
+        "title": "d4151 Maintaining a squatting position",
+        "description": "Staying in a squatting position for some time as required, such as when sitting on the floor without a seat."
+      },
+      {
+        "code": "d4152",
+        "title": "d4152 Maintaining a kneeling position",
+        "description": "Staying in a kneeling position where the body is supported by the knees with legs bent for some time as required, such as during prayers in church."
+      },
+      {
+        "code": "d4153",
+        "title": "d4153 Maintaining a sitting position",
+        "description": "Staying in a seated position, on a seat or the floor, for some time as required, such as when sitting at a desk or table."
+      }
+    ],
+    "code": "d415",
+    "title": "d415 Maintaining a body position",
+    "description": "Staying in the same body position as required, such as remaining seated or remaining standing for work or school."
+  },
+  {
+    "children": [
+      {
+        "code": "d4350",
+        "title": "d4350 Pushing with lower extremities",
+        "description": "Using the legs and feet to exert a force on an object to move it away, such as pushing a chair away with a foot."
+      },
+      {
+        "code": "d4351",
+        "title": "d4351 Kicking",
+        "description": "Using the legs and feet to propel something away, such as kicking a ball."
+      },
+      {
+        "code": "d4358",
+        "title": "d4358 Moving objects with lower extremities, other specified",
+        "description": ""
+      },
+      {
+        "code": "d4359",
+        "title": "d4359 Moving objects with lower extremities, unspecified",
+        "description": ""
+      }
+    ],
+    "code": "d435",
+    "title": "d435 Moving objects with lower extremities",
+    "description": "Performing coordinated actions aimed at moving an object by using the legs and feet, such as kicking a ball or pushing pedals on a bicycle."
+  },
+  {
+    "children": [
+      {
+        "code": "d4550",
+        "title": "d4550 Crawling",
+        "description": "Moving the whole body in a prone position from one place to another on hands, or hands and arms, and knees."
+      },
+      {
+        "code": "d4551",
+        "title": "d4551 Climbing",
+        "description": "Moving the whole body upwards or downwards, over surfaces or objects, such as climbing steps, rocks, ladders or stairs, curbs or other objects."
+      },
+      {
+        "code": "d4552",
+        "title": "d4552 Running",
+        "description": "Moving with quick steps so that both feet may be simultaneously off the ground."
+      },
+      {
+        "code": "d4553",
+        "title": "d4553 Jumping",
+        "description": "Moving up off the ground by bending and extending the legs, such as jumping on one foot, hopping, skipping and jumping or diving into water."
+      }
+    ],
+    "code": "d455",
+    "title": "d455 Moving around",
+    "description": "Moving the whole body from one place to another by means other than walking, such as climbing over a rock or running down a street, skipping, scampering, jumping, somersaulting or running around obstacles."
+  },
+  {
+    "children": [
+      {
+        "code": "d4750",
+        "title": "d4750 Driving human-powered transportation",
+        "description": "Driving a human-powered vehicle, such as a bicycle, tricycle, or rowboat."
+      },
+      {
+        "code": "d4751",
+        "title": "d4751 Driving motorized vehicles",
+        "description": "Driving a vehicle with a motor, such as an automobile, motorcycle, motorboat or aircraft."
+      },
+      {
+        "code": "d4752",
+        "title": "d4752 Driving animal-powered vehicles",
+        "description": "Driving a vehicle powered by an animal, such as a horse-drawn cart or carriage."
+      },
+      {
+        "code": "d4758",
+        "title": "d4758 Driving, other specified",
+        "description": ""
+      }
+    ],
+    "code": "d475",
+    "title": "d475 Driving",
+    "description": "Being in control of and moving a vehicle or the animal that draws it, travelling under one\u0027s own direction or having at one\u0027s disposal any form of transportation, such as a car, bicycle, boat or animal-powered vehicle."
+  },
+  {
+    "children": [
+      {
+        "code": "d5200",
+        "title": "d5200 Caring for skin",
+        "description": "Looking after the texture and hydration of one\u0027s skin, such as by removing calluses or corns and using moisturizing lotions or cosmetics."
+      },
+      {
+        "code": "d5201",
+        "title": "d5201 Caring for teeth",
+        "description": "Looking after dental hygiene, such as by brushing teeth, flossing, and taking care of a dental prosthesis or orthosis."
+      },
+      {
+        "code": "d5202",
+        "title": "d5202 Caring for hair",
+        "description": "Looking after the hair on the head and face, such as by combing, styling, shaving, or trimming."
+      },
+      {
+        "code": "d5203",
+        "title": "d5203 Caring for fingernails",
+        "description": "Cleaning, trimming or polishing the nails of the fingers."
+      }
+    ],
+    "code": "d520",
+    "title": "d520 Caring for body parts",
+    "description": "Looking afer those parts of the body, such as skin, face, teeth, scalp, nails and genitals, that require more than washing and drying."
+  },
+  {
+    "children": [
+      {
+        "code": "d6200",
+        "title": "d6200 Shopping",
+        "description": "Obtaining, in exchange for money, goods and services required for daily living (including instructing and supervising an intermediary to do the shopping), such as selecting food, drink, cleaning materials, household items or clothing in a shop or market; comparing quality and price of the items required, negotiating and paying for selected goods or services, and transporting goods."
+      },
+      {
+        "code": "d6201",
+        "title": "d6201 Gathering daily necessities",
+        "description": "Obtaining, without exchange of money, goods and services required for daily living (including instructing and supervising an intermediate to gather daily necessities), such as by harvesting vegetables and fruits and getting water and fuel."
+      },
+      {
+        "code": "d6208",
+        "title": "d6208 Acquisition of goods and services, other specified",
+        "description": ""
+      }
+    ],
+    "code": "d620",
+    "title": "d620 Acquisition of goods and services",
+    "description": "Selecting, procuring and transporting all goods and services required for daily living, such as selecting, procuring, transporting and storing food, drink, clothing, cleaning materials, fuel, household items, utensils, cooking ware, domestic appliances and tools; procuring utilities and other household services."
+  },
+  {
+    "children": [
+      {
+        "code": "d6400",
+        "title": "d6400 Washing and drying clothes and garments",
+        "description": "Washing clothes and garments by hand and hanging them out to dry in the air."
+      },
+      {
+        "code": "d6401",
+        "title": "d6401 Cleaning cooking area and utensils",
+        "description": "Cleaning up after cooking, such as by washing dishes, pans, pots and cooking utensils, and cleaning tables and floors around cooking and eating area."
+      },
+      {
+        "code": "d6402",
+        "title": "d6402 Cleaning living area",
+        "description": "Cleaning the living areas of the household, such as by tidying and dusting, sweeping, swabbing, mopping floors, cleaning windows and walls, cleaning bathrooms and toilets, cleaning household furnishings."
+      },
+      {
+        "code": "d6403",
+        "title": "d6403 Using household appliances",
+        "description": "Using all kinds of household appliances, such as washing machines, driers, irons, vacuum cleaners and dishwashers."
+      }
+    ],
+    "code": "d640",
+    "title": "d640 Doing housework",
+    "description": "Managing a household by cleaning the house, washing clothes, using household appliances, storing food and disposing of garbage, such as by sweeping, mopping, washing counters, walls and other surfaces; collecting and disposing of household garbage; tidying rooms, closets and drawers; collecting, washing, drying, folding and ironing clothes; cleaning footwear; using brooms, brushes and vacuum cleaners; using washing machines, driers and irons."
+  },
+  {
+    "children": [
+      {
+        "code": "d6600",
+        "title": "d6600 Assisting others with self-care",
+        "description": "Assisting household members and others in performing self-care, including helping others with eating, bathing and dressing; taking care of children or members of the household who are sick or have difficulties with basic self-care; helping others with their toileting."
+      },
+      {
+        "code": "d6601",
+        "title": "d6601 Assisting others in movement",
+        "description": "Assisting household members and others in movements and in moving outside the home, such as in the neighbourhood or city, to or from school, place of employment or other destination."
+      },
+      {
+        "code": "d6602",
+        "title": "d6602 Assisting others in communication",
+        "description": "Assisting household members and others with their communication, such as by helping with speaking, writing or reading."
+      }
+    ],
+    "code": "d660",
+    "title": "d660 Assisting others",
+    "description": "Assisting household members and others with their learning, communicating, self-care, movement, within the house or outside; being concerned about the well-being of household members and others."
+  },
+  {
+    "children": [
+      {
+        "code": "d7200",
+        "title": "d7200 Forming relationships",
+        "description": "Beginning and maintaining interactions with others for a short or long period of time, in a contextually and socially appropriate manner, such as by introducing oneself, finding and establishing friendships and professional relationships, starting a relationship that may become permanent, romantic or intimate."
+      },
+      {
+        "code": "d7201",
+        "title": "d7201 Terminating relationships",
+        "description": "Bringing interactions to a close in a contextually and socially appropriate manner, such as by ending temporary relationships at the end of a visit, ending long-term relationships with friends when moving to a new town or ending relationships with work colleagues, professional colleagues and service providers, and ending romantic or intimate relationships."
+      },
+      {
+        "code": "d7202",
+        "title": "d7202 Regulating behaviours within interactions",
+        "description": "Regulating emotions and impulses, verbal aggression and physical aggression in interactions with others, in a contextually and socially appropriate manner."
+      },
+      {
+        "code": "d7203",
+        "title": "d7203 Interacting according to social rules",
+        "description": "Acting independently in social interactions and complying with social conventions governing one\u0027s role, position or other social status in interactions with others."
+      }
+    ],
+    "code": "d720",
+    "title": "d720 Complex interpersonal interactions",
+    "description": "Maintaining and managing interactions with other people, in a contextually and socially appropriate manner, such as by regulating emotions and impulses, controlling verbal and physical aggression, acting independently in social interactions, and acting in accordance with social rules and conventions."
+  },
+  {
+    "children": [
+      {
+        "code": "d7400",
+        "title": "d7400 Relating with persons in authority",
+        "description": "Creating and maintaining formal relations with people in positions of power or of a higher rank or prestige relative to one\u0027s own social position, such as an employer."
+      },
+      {
+        "code": "d7401",
+        "title": "d7401 Relating with subordinates",
+        "description": "Creating and maintaining formal relations with people in positions of lower rank or prestige relative to one\u0027s own social position, such as an employee or servant."
+      },
+      {
+        "code": "d7402",
+        "title": "d7402 Relating with equals",
+        "description": "Creating and maintaining formal relations with people in the same position of authority, rank or prestige relative to one\u0027s own social position."
+      }
+    ],
+    "code": "d740",
+    "title": "d740 Formal relationships",
+    "description": "Creating and maintaining specific relationships in formal settings, such as with employers, professionals or service providers."
+  },
+  {
+    "code": "d815",
+    "title": "d815 Preschool education",
+    "description": "Learning at an initial level of organized instruction, designed primarily to introduce a child to the school-type environment and prepare it for compulsory education, such as by acquiring skills in a day-care or similar setting as preparation for advancement to school."
+  },
+  {
+    "code": "d820",
+    "title": "d820 School education",
+    "description": "Gaining admission to school, engaging in all school-related responsibilities and privileges, and learning the course material, subjects and other curriculum requirements in a primary or secondary education programme, including attending school regularly, working cooperatively with other students, taking direction from teachers, organizing, studying and completing assigned tasks and projects, and advancing to other stages of education."
+  },
+  {
+    "code": "d840",
+    "title": "d840 Apprenticeship (work preparation)",
+    "description": "Engaging in programmes related to preparation for employment, such as performing the tasks required of an apprenticeship, internship, articling and in-service training."
+  },
+  {
+    "children": [
+      {
+        "code": "d8450",
+        "title": "d8450 Seeking employment",
+        "description": "Locating and choosing a job, in a trade, profession or other form of employment, and performing the required tasks to get hired, such as showing up at the place of employment or participating in a job interview."
+      },
+      {
+        "code": "d8451",
+        "title": "d8451 Maintaining a job",
+        "description": "Performing job-related tasks to keep an occupation, trade, profession or other form of employment, and obtaining promotion and other advancements in employment."
+      },
+      {
+        "code": "d8452",
+        "title": "d8452 Terminating a job",
+        "description": "Leaving or quitting a job in the appropriate manner."
+      }
+    ],
+    "code": "d845",
+    "title": "d845 Acquiring, keeping and terminating a job",
+    "description": "Seeking, finding and choosing employment, being hired and accepting employment, maintaining and advancing through a job, trade, occupation or profession, and leaving a job in an appropriate manner."
+  },
+  {
+    "code": "d860",
+    "title": "d860 Basic economic transactions",
+    "description": "Engaging in any form of simple economic transaction, such as using money to purchase food or bartering, exchanging goods or services; or saving money."
+  },
+  {
+    "code": "d865",
+    "title": "d865 Complex economic transactions",
+    "description": "Engaging in any form of complex economic transaction that involves the exchange of capital or property, and the creation of profit or economic value, such as buying a business, factory, or equipment, maintaining a bank account, or trading in commodities."
+  },
+  {
+    "children": [
+      {
+        "code": "d8700",
+        "title": "d8700 Personal economic resources",
+        "description": "Having command over personal or private economic resources, in order to ensure economic security for present and future needs."
+      }
+    ],
+    "code": "d870",
+    "title": "d870 Economic self-sufficiency",
+    "description": "Having command over economic resources, from private or public sources, in order to ensure economic security for present and future needs."
+  }
+]
