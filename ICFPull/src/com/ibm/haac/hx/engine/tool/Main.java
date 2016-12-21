@@ -15,5 +15,4 @@ public class Main {
         //b Body Functions
         icfPull.pullICFClassifications(group);
     }
-
 }
